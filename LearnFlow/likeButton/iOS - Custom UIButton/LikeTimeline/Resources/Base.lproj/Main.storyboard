@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="gNs-5D-dvo">
+<device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--ViewController-->
+        <scene sceneID="BDEA9852-1593-4A8A-8E09-15E3E70864BA">
+            <objects>
+                <viewController storyboardIdentifier="ViewController" id="ViewController" customClass="ViewController" customModule="LikeTimelineButton" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="DEA06953-2866-4DDA-BA2F-52266AAC6972"/>
+                        <viewControllerLayoutGuide type="bottom" id="797146B2-FF74-47A0-A488-3F3C18053B8D"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="EF39A63F-CB64-4372-BF4A-55C27ED9EC9E">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="A8FEF913-F434-4765-B0CB-A141B13836F2" customClass="LikeTimelineButton" customModule="LikeTimelineButton" customModuleProvider="target">
+                                <rect key="frame" x="167.5" y="313.5" width="40" height="40"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="40" id="opV-ms-vXv"/>
+                                    <constraint firstAttribute="width" constant="40" id="sjb-Zv-Qk0"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <gestureRecognizers/>
+                        <constraints>
+                            <constraint firstItem="A8FEF913-F434-4765-B0CB-A141B13836F2" firstAttribute="centerY" secondItem="EF39A63F-CB64-4372-BF4A-55C27ED9EC9E" secondAttribute="centerY" id="23734552-55D7-4F94-897A-978CB2333BC8"/>
+                            <constraint firstItem="A8FEF913-F434-4765-B0CB-A141B13836F2" firstAttribute="centerX" secondItem="EF39A63F-CB64-4372-BF4A-55C27ED9EC9E" secondAttribute="centerX" id="B73EDE83-0FAF-42AA-81D2-CD741C0DBF40"/>
+                        </constraints>
+                    </view>
+                    <value key="contentSizeForViewInPopover" type="size" width="40" height="40"/>
+                    <connections>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="0DED181A-7792-4DE2-9137-05EC1A514D6A" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="0.0" y="0.0"/>
+        </scene>
+        <!--Launch Animation View Controller-->
+        <scene sceneID="uPg-I4-Jwi">
+            <objects>
+                <viewController id="gNs-5D-dvo" customClass="LaunchAnimationViewController" customModule="Wordmark" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Lws-Dv-aGB"/>
+                        <viewControllerLayoutGuide type="bottom" id="NOy-1h-cy6"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Lsv-YY-aZj">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="CJs-KB-Ydh" customClass="LaunchAnimationView" customModule="Wordmark" customModuleProvider="target">
+                                <rect key="frame" x="42.5" y="303.5" width="290" height="60"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="60" id="F34-UY-EOV"/>
+                                    <constraint firstAttribute="width" constant="290" id="lnu-tW-77y"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="CJs-KB-Ydh" firstAttribute="centerY" secondItem="Lsv-YY-aZj" secondAttribute="centerY" id="Uwo-hT-4Ki"/>
+                            <constraint firstItem="CJs-KB-Ydh" firstAttribute="centerX" secondItem="Lsv-YY-aZj" secondAttribute="centerX" id="pPV-qb-LTz"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="scene" destination="CJs-KB-Ydh" id="KDI-Qj-fDB"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="vxw-N1-2S8" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1" y="649"/>
+        </scene>
+
+    </scenes>
+</document>

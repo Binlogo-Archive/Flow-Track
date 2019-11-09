@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>play</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="play" transform="translate(1.000000, 1.000000)">
+            <path d="M12.5547002,9.0364668 L20.2579413,14.1719608 C20.7174699,14.4783133 20.8416438,15.0991826 20.5352914,15.5587113 C20.457819,15.6749199 20.3568631,15.7736114 20.2389273,15.8484282 L12.5356863,20.7352554 C12.0693276,21.0311067 11.4514343,20.8928832 11.1555829,20.4265245 C11.0539606,20.2663345 11,20.0805431 11,19.8908383 L11,9.86851709 C11,9.31623234 11.4477153,8.86851709 12,8.86851709 C12.197425,8.86851709 12.3904327,8.92695512 12.5547002,9.0364668 Z" fill="#2974FF"></path>
+            <circle id="playPauseCircle" stroke="#2974FF" stroke-width="2" cx="15" cy="15" r="15"></circle>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,146 @@
+@font-face {
+    font-family: 'TimeFont';
+    src: url('../fonts/Roboto-Regular.ttf') format('truetype');
+}
+
+.playback {
+    position: relative;
+    width: 425px;
+    height: 50px;
+    margin: 20px auto 0 auto;
+    background-color: transparent;
+}
+
+.slider {
+    width: 200px;
+    height: 24px;
+    margin: 0 auto;
+}
+
+.time {
+    font-family: 'TimeFont';
+    font-size: 15px;
+    width: 75px;
+    height: 24px;
+    line-height: normal;
+    align-items: left;
+    justify-content: left;
+    display: inline-grid;
+    color: #8a8a8a;
+}
+
+.time {
+    float: left;
+    margin-top: 4px;
+    margin-left: 12px;
+}
+
+.controls {
+    margin-top: 15px;
+    height: 30px;
+    width: 100%;
+}
+
+.playPauseLoop {
+    width: 95px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.playPauseContainer {
+    height: 30px;
+    width: 30px;
+    float: left;
+}
+
+.playPauseContainer.loop {
+  margin-right: 5px;
+}
+
+input[type=checkbox] {
+    display: none;
+}
+
+input[type=checkbox]:checked + .loopLabel {
+    opacity: 1;
+}
+
+.loopLabel {
+    background: url(../img/loop.svg) no-repeat;
+
+    background-size: contain;
+    content: "";
+    height: 24px;
+    width: 22px;
+    display: inline-block;
+    padding: 0;
+    margin: 9px 0 0 0;
+    opacity: 0.33;
+}
+
+input[type=checkbox]:checked + .playPauseLabel {
+    background: url(../img/pause.svg);
+    background-size: contain;
+}
+
+.playPauseLabel {
+    background: url(../img/play.svg);
+    background-size: contain;
+    content: "";
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    padding: 0;
+}
+
+input[type=range] {
+    position: relative;
+    display: block;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    width: 200px;
+    float: left;
+    cursor: default;
+    padding: 0;
+    height: 2px;
+    margin: 11px auto 0 auto;
+    background-color: #D8D8D8;
+}
+
+input[type=range]:focus {
+    outline: none;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+    height: 2px;
+    background: #d8d8d8;
+    border-radius: 1px;
+    cursor: default;
+}
+
+input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    height: 15px;
+    width: 15px;
+    margin: -6px 0 0 0;
+    overflow: visible;
+    background: url(../img/sliderThumb.svg) no-repeat;
+}
+
+/*------------------- MOZ -------------------*/
+
+/* Needs to be here, otherwise thumb styling doesn't work */
+input[type=range]::-moz-range-track {}
+
+/* All the same stuff for Firefox */
+input[type=range]::-moz-range-thumb {
+    height: 12px;
+    width: 6px;
+    border-radius: 2px;
+    background-color: #FFF;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #0000FF88;
+}

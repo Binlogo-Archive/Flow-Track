@@ -1,0 +1,14 @@
+{
+  "id" : "52A19D62-7AC3-4DD7-B73A-5CB4666C6465",
+  "name" : "页面 1",
+  "scenes" : [
+    {
+      "id" : "7E2190EE-69A4-40DD-88E8-5CB4FF672F13",
+      "ref" : "imported\/7E2190EE-69A4-40DD-88E8-5CB4FF672F13"
+    },
+    {
+      "id" : "A7FC18FF-FBD6-4087-B147-8F718F0052D4",
+      "ref" : "imported\/A7FC18FF-FBD6-4087-B147-8F718F0052D4"
+    }
+  ]
+}

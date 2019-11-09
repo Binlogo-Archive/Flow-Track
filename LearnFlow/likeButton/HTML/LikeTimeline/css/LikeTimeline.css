@@ -1,0 +1,130 @@
+
+.flow-layer {
+    position: absolute;
+    overflow: visible;
+    box-sizing: border-box;
+    border-width: 0px;
+}
+
+.flow-bg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    box-sizing: border-box;
+    border-width: 0px;
+}
+
+.flow-border {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    box-sizing: border-box;
+    border-style: solid;
+    border-width: 0px;
+}
+
+#LikeTimeline.flow-artboard {
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    position: relative;
+    padding: 0px;
+    margin: 0px auto;
+    background-color: #FFFFFF;
+}
+
+#LikeTimeline .plusicon {
+    width: 12px;
+    height: 12px;
+    left: 40px;
+    top: 0px;
+    transform: translate(-50%, -50%) rotate(0deg);
+    opacity: 0;
+    background-color: #00000000;
+    overflow: visible;
+}
+
+#LikeTimeline .plusicon-svg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    fill: #F11627;
+    stroke-miterlimit: 10;
+    stroke-width: 0px;
+}
+
+#LikeTimeline .heartred {
+    width: 34.93px;
+    height: 32.05px;
+    left: 20.46px;
+    top: 20.63px;
+    transform: translate(-50%, -50%) rotate(0deg);
+    background-color: #00000000;
+    overflow: visible;
+    clip-path: url(#liketimeline-heartred-mask);
+    -webkit-clip-path: url(#liketimeline-heartred-mask);}
+
+#LikeTimeline .heartshape {
+    width: 34.93px;
+    height: 32.05px;
+    left: 17.47px;
+    top: 16.02px;
+    transform: translate(-50%, -50%) rotate(0deg);
+    background-color: #00000000;
+    overflow: visible;
+}
+
+#LikeTimeline .heartshape-svg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    fill: #00000000;
+    stroke-miterlimit: 10;
+    stroke-width: 0px;
+}
+#LikeTimeline .redlayer {
+    width: 35px;
+    height: 35px;
+    left: 17.5px;
+    top: 61px;
+    transform: translate(-50%, -50%) rotate(45deg);
+    background-color: #00000000;
+    overflow: visible;
+}
+
+#LikeTimeline .redlayer-svg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    fill: #F11627;
+    stroke-miterlimit: 10;
+    stroke-width: 0px;
+}
+
+#LikeTimeline .heartgray {
+    width: 31.93px;
+    height: 28.71px;
+    left: 20.46px;
+    top: 20.46px;
+    transform: translate(-50%, -50%) rotate(0deg);
+    background-color: #00000000;
+    overflow: visible;
+}
+
+#LikeTimeline .heartgray-svg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    stroke: #B4B1B1;
+    fill: #00000000;
+    stroke-miterlimit: 10;
+    stroke-width: 3px;
+}
+
+path {
+    fill-rule: evenodd; 
+}
+
+svg {
+   overflow: visible;
+}

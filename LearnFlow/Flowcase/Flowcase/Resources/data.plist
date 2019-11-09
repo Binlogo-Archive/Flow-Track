@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Menu Animation</string>
+		<key>author</key>
+		<string>Zhenya Rynzhuk</string>
+		<key>image</key>
+		<string>hotUIAnimation0</string>
+		<key>liked</key>
+		<false/>
+		<key>url</key>
+		<string>https://dribbble.com/shots/5544114-Molley-Heltz-Menu-Animation</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Pull To Refresh</string>
+		<key>author</key>
+		<string>Divan Raj</string>
+		<key>image</key>
+		<string>hotUIAnimation1</string>
+		<key>liked</key>
+		<true/>
+		<key>url</key>
+		<string>https://dribbble.com/shots/3026988-Pull-To-Refresh-Airbnb</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>On Off Switches</string>
+		<key>author</key>
+		<string>Peter Arumugam</string>
+		<key>image</key>
+		<string>hotUIAnimation2</string>
+		<key>liked</key>
+		<false/>
+		<key>url</key>
+		<string>https://dribbble.com/shots/4298041-Daily-UI-015-On-Off-Switch</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Launch Animation</string>
+		<key>author</key>
+		<string>Henrique J. Tramontina</string>
+		<key>image</key>
+		<string>hotUIAnimation3</string>
+		<key>liked</key>
+		<false/>
+		<key>url</key>
+		<string>https://dribbble.com/shots/4933908-aroundBerlin-splash-screen</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Launch Animation</string>
+		<key>author</key>
+		<string>Anastasia Ageeva</string>
+		<key>image</key>
+		<string>hotUIAnimation4</string>
+		<key>liked</key>
+		<true/>
+		<key>url</key>
+		<string>https://dribbble.com/shots/3876712-Shekel-Splash</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Launch Animation</string>
+		<key>author</key>
+		<string>Samuel Medvedowsky</string>
+		<key>image</key>
+		<string>hotUIAnimation5</string>
+		<key>liked</key>
+		<true/>
+		<key>url</key>
+		<string>https://dribbble.com/shots/4034991-New-Exciting-Project-Splash-Screen</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Cards Menu Concept</string>
+		<key>author</key>
+		<string>Gal Shir</string>
+		<key>image</key>
+		<string>hotUIAnimation6</string>
+		<key>liked</key>
+		<false/>
+		<key>url</key>
+		<string>https://dribbble.com/shots/2389505-Cards-Menu-Concept</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Custom Button</string>
+		<key>author</key>
+		<string>Oleg Frolov</string>
+		<key>image</key>
+		<string>hotUIAnimation7</string>
+		<key>liked</key>
+		<false/>
+		<key>url</key>
+		<string>https://dribbble.com/shots/3395802-Menu-button-II</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Expanded Tab Bar</string>
+		<key>author</key>
+		<string>Vitaly Silkin</string>
+		<key>image</key>
+		<string>hotUIAnimation8</string>
+		<key>liked</key>
+		<true/>
+		<key>url</key>
+		<string>https://dribbble.com/shots/5794408-Expanded-tab-bar</string>
+	</dict>
+</array>
+</plist>
