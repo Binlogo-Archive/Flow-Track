@@ -37,6 +37,10 @@
 
 ![Skype](./BasicAnimationWithTwitterLogo/skype.gif)
 
+* The Value of Anchor Point Rotations
+
+![Skype](./BasicAnimationWithTwitterLogo/vimeo.gif)
+
 ## Copyright
 
 All materials from [Flow](https://createwithflow.com) are Copyright  **JABT Labs Inc**. Thanks for the awesome creative tool.
