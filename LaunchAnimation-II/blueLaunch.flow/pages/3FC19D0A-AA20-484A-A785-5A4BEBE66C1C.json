@@ -1,0 +1,10 @@
+{
+  "id" : "3FC19D0A-AA20-484A-A785-5A4BEBE66C1C",
+  "name" : "Page 1",
+  "scenes" : [
+    {
+      "id" : "FEB0778E-4DE8-45A2-9D40-5513B51E105F",
+      "ref" : "imported\/FEB0778E-4DE8-45A2-9D40-5513B51E105F"
+    }
+  ]
+}
