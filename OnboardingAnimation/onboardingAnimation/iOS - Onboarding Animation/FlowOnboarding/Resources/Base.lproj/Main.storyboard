@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="gNs-5D-dvo">
+<device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--BaseViewController-->
+        <scene sceneID="6593E26F-BCB8-4FEF-9110-74BFAE69285B">
+            <objects>
+                <viewController storyboardIdentifier="BaseViewController" id="BaseViewController" customClass="BaseViewController" customModule="onboardingAnimation" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="F4A670F5-03E5-4154-A3CE-5DC3FE533EDF"/>
+                        <viewControllerLayoutGuide type="bottom" id="5408A936-E00E-4861-934B-5F3B8C14C70C"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="5C32CB67-E641-4634-8E09-27202463C201">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="D663F5D9-5965-4E73-9EA0-5B9EAE5186D1" customClass="BaseView" customModule="onboardingAnimation" customModuleProvider="target">
+                                <rect key="frame" x="0" y="-72.5" width="375" height="812"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="375" id="04DD4382-35F4-4243-9CF6-6D7D711D70F2"/>
+                                    <constraint firstAttribute="height" constant="812" id="F44757A2-7745-4762-9457-898565A5B6DC"/>
+                                </constraints>
+                            </view>
+                            <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="7" translatesAutoresizingMaskIntoConstraints="NO" id="5D8FB740-C94F-44A3-8466-2EA68AA56A27">
+                                <rect key="frame" x="168" y="622" width="39" height="37"/>
+                                <color key="pageIndicatorTintColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="currentPageIndicatorTintColor" cocoaTouchSystemColor="darkTextColor"/>
+                            </pageControl>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="53EEE668-860D-4368-B898-2957F63BB461">
+                                <rect key="frame" x="0.0" y="20" width="375" height="647"/>
+                            </scrollView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <gestureRecognizers/>
+                        <constraints>
+                            <constraint firstItem="D663F5D9-5965-4E73-9EA0-5B9EAE5186D1" firstAttribute="centerY" secondItem="5C32CB67-E641-4634-8E09-27202463C201" secondAttribute="centerY" id="75ECDE79-9496-4AAE-8704-ABDFE6EA51E0"/>
+                            <constraint firstItem="D663F5D9-5965-4E73-9EA0-5B9EAE5186D1" firstAttribute="centerX" secondItem="5C32CB67-E641-4634-8E09-27202463C201" secondAttribute="centerX" id="8962A70B-4603-4CCD-B88C-4B57514CF3F6"/>
+                            <constraint firstItem="5D8FB740-C94F-44A3-8466-2EA68AA56A27" firstAttribute="centerX" secondItem="5C32CB67-E641-4634-8E09-27202463C201" secondAttribute="centerX" id="DBC52A64-FEB4-479E-AD35-4A5C0FD31C9A"/>
+                            <constraint firstItem="5408A936-E00E-4861-934B-5F3B8C14C70C" firstAttribute="top" secondItem="53EEE668-860D-4368-B898-2957F63BB461" secondAttribute="bottom" id="D51D6335-EDA8-48B9-860A-BBCA07C6C851"/>
+                            <constraint firstItem="5408A936-E00E-4861-934B-5F3B8C14C70C" firstAttribute="top" secondItem="5D8FB740-C94F-44A3-8466-2EA68AA56A27" secondAttribute="bottom" constant="8" id="CDF8AB4D-F8A1-4C48-8134-5D81F64444C6"/>
+                            <constraint firstItem="53EEE668-860D-4368-B898-2957F63BB461" firstAttribute="leading" secondItem="5C32CB67-E641-4634-8E09-27202463C201" secondAttribute="leading" id="F96C7956-DB6A-4A08-8048-F9881C2C27E4"/>
+                            <constraint firstItem="53EEE668-860D-4368-B898-2957F63BB461" firstAttribute="top" secondItem="F4A670F5-03E5-4154-A3CE-5DC3FE533EDF" secondAttribute="bottom" id="3C74C673-AF02-4352-B94E-1DBC30283940"/>
+                            <constraint firstAttribute="trailing" secondItem="53EEE668-860D-4368-B898-2957F63BB461" secondAttribute="trailing" id="16125E7D-C742-41B2-9C15-E42750597106"/>
+                        </constraints>
+                    </view>
+                    <value key="contentSizeForViewInPopover" type="size" width="375" height="812"/>
+                    <connections>
+                        <outlet property="pageControl" destination="5D8FB740-C94F-44A3-8466-2EA68AA56A27" id="4D5196D6-0261-4C60-9CB4-2B7D36C2E53D"/>
+                        <outlet property="base" destination="D663F5D9-5965-4E73-9EA0-5B9EAE5186D1" id="B5FF187A-6B11-427A-80CE-0B70D33465C2"/>
+                        <outlet property="scrollview" destination="53EEE668-860D-4368-B898-2957F63BB461" id="F1C6522D-0B8C-4076-ABEE-E74286197374"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="747C2740-712A-470F-AC80-6EDE63BA98F0" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="0.0" y="0.0"/>
+        </scene>
+        <!--Launch Animation View Controller-->
+        <scene sceneID="uPg-I4-Jwi">
+            <objects>
+                <viewController id="gNs-5D-dvo" customClass="LaunchAnimationViewController" customModule="Wordmark" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Lws-Dv-aGB"/>
+                        <viewControllerLayoutGuide type="bottom" id="NOy-1h-cy6"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Lsv-YY-aZj">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="CJs-KB-Ydh" customClass="LaunchAnimationView" customModule="Wordmark" customModuleProvider="target">
+                                <rect key="frame" x="42.5" y="303.5" width="290" height="60"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="60" id="F34-UY-EOV"/>
+                                    <constraint firstAttribute="width" constant="290" id="lnu-tW-77y"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="CJs-KB-Ydh" firstAttribute="centerY" secondItem="Lsv-YY-aZj" secondAttribute="centerY" id="Uwo-hT-4Ki"/>
+                            <constraint firstItem="CJs-KB-Ydh" firstAttribute="centerX" secondItem="Lsv-YY-aZj" secondAttribute="centerX" id="pPV-qb-LTz"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="scene" destination="CJs-KB-Ydh" id="KDI-Qj-fDB"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="vxw-N1-2S8" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1" y="649"/>
+        </scene>
+
+    </scenes>
+</document>

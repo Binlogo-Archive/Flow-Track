@@ -3,12 +3,12 @@
   "lastselectedPageIndex" : 0,
   "loopPlayBack" : false,
   "playbackSpeed" : 0.5,
-  "playbackTime" : 0,
+  "playbackTime" : 6,
   "sceneOffset" : [
-    1959,
-    120.7820277622767
+    440,
+    -265.2179722377233
   ],
-  "sceneScale" : 0.25,
-  "stageChangesApplyToAllTimes" : true,
+  "sceneScale" : 0.5,
+  "stageChangesApplyToAllTimes" : false,
   "timelineLength" : 261.48806857502456
 }

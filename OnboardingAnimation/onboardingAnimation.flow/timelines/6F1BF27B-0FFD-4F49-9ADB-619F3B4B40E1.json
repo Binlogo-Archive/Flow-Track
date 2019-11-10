@@ -5,7 +5,7 @@
     "1E8CE275-38A0-41D4-B557-7D985B0574A0" : {
       "properties" : {
         "alignmentMode" : "center",
-        "bounds.size.height" : 43.020000000000003,
+        "bounds.size.height" : 43.02,
         "bounds.size.width" : 274.63,
         "font" : {
           "name" : "BasierCircle-Bold",
@@ -14,13 +14,13 @@
         "fontSize" : 32,
         "foregroundColor" : {
           "alpha" : 1,
-          "blue" : 0.47100000000000003,
-          "green" : 0.0040000000000000001,
-          "red" : 0.99199999999999999
+          "blue" : 0.471,
+          "green" : 0.004,
+          "red" : 0.992
         },
         "opacity" : 0,
         "position.x" : 198,
-        "position.y" : 534.32000000000005,
+        "position.y" : 534.3200000000001024,
         "string" : "The Stage"
       }
     },
@@ -38,13 +38,13 @@
                   "cornerRadius" : 0,
                   "point" : {
                     "x" : 0,
-                    "y" : 0.49999999999999939
+                    "y" : 0.4999999999999992832
                   }
                 },
                 {
                   "cornerRadius" : 0,
                   "point" : {
-                    "x" : 0.99492872807017541,
+                    "x" : 0.994928728070175744,
                     "y" : 0.5
                   }
                 }
@@ -69,7 +69,7 @@
     "5FD53F0A-5623-4270-9BE5-00F13C04B366" : {
       "properties" : {
         "alignmentMode" : "center",
-        "bounds.size.height" : 43.020000000000003,
+        "bounds.size.height" : 43.02,
         "bounds.size.width" : 274.63,
         "font" : {
           "name" : "BasierCircle-Bold",
@@ -78,13 +78,13 @@
         "fontSize" : 32,
         "foregroundColor" : {
           "alpha" : 1,
-          "blue" : 0.47100000000000003,
-          "green" : 0.0040000000000000001,
-          "red" : 0.99199999999999999
+          "blue" : 0.471,
+          "green" : 0.004,
+          "red" : 0.992
         },
         "opacity" : 0,
         "position.x" : 188,
-        "position.y" : 524.32000000000005,
+        "position.y" : 524.3200000000001024,
         "string" : "Welcome to Flow"
       }
     },
@@ -238,21 +238,21 @@
                   "cornerRadius" : 0,
                   "curveTo" : {
                     "x" : 0,
-                    "y" : 0.22385816482296106
+                    "y" : 0.2238581648229609984
                   },
                   "point" : {
                     "x" : 0,
-                    "y" : 0.49999803791532427
+                    "y" : 0.4999980379153243136
                   }
                 },
                 {
                   "cornerRadius" : 0,
                   "curveFrom" : {
-                    "x" : 0.22385615782116322,
+                    "x" : 0.2238561578211631872,
                     "y" : 0
                   },
                   "curveTo" : {
-                    "x" : 0.7761438421788367,
+                    "x" : 0.7761438421788366848,
                     "y" : 0
                   },
                   "point" : {
@@ -264,25 +264,25 @@
                   "cornerRadius" : 0,
                   "curveFrom" : {
                     "x" : 1,
-                    "y" : 0.22385816482296106
+                    "y" : 0.2238581648229609984
                   },
                   "curveTo" : {
                     "x" : 1,
-                    "y" : 0.77614183517703883
+                    "y" : 0.776141835177038848
                   },
                   "point" : {
                     "x" : 1,
-                    "y" : 0.49999803791532427
+                    "y" : 0.4999980379153243136
                   }
                 },
                 {
                   "cornerRadius" : 0,
                   "curveFrom" : {
-                    "x" : 0.7761438421788367,
+                    "x" : 0.7761438421788366848,
                     "y" : 1
                   },
                   "curveTo" : {
-                    "x" : 0.22385615782116322,
+                    "x" : 0.2238561578211631872,
                     "y" : 1
                   },
                   "point" : {
@@ -294,11 +294,11 @@
                   "cornerRadius" : 0,
                   "curveFrom" : {
                     "x" : 0,
-                    "y" : 0.77614183517703883
+                    "y" : 0.776141835177038848
                   },
                   "point" : {
                     "x" : 0,
-                    "y" : 0.49999803791532427
+                    "y" : 0.4999980379153243136
                   }
                 }
               ]
@@ -386,7 +386,7 @@
     "30C06D7A-7E20-4289-8124-5761DEA21BE6" : {
       "properties" : {
         "alignmentMode" : "center",
-        "bounds.size.height" : 43.020000000000003,
+        "bounds.size.height" : 43.02,
         "bounds.size.width" : 274.63,
         "font" : {
           "name" : "BasierCircle-Bold",
@@ -395,13 +395,13 @@
         "fontSize" : 32,
         "foregroundColor" : {
           "alpha" : 1,
-          "blue" : 0.47100000000000003,
-          "green" : 0.0040000000000000001,
-          "red" : 0.99199999999999999
+          "blue" : 0.471,
+          "green" : 0.004,
+          "red" : 0.992
         },
         "opacity" : 0,
         "position.x" : 198,
-        "position.y" : 534.32000000000005,
+        "position.y" : 534.3200000000001024,
         "string" : "Properties Panel"
       }
     },
@@ -418,15 +418,15 @@
                 {
                   "cornerRadius" : 0,
                   "point" : {
-                    "x" : 0.0014430732484079813,
+                    "x" : 0.0014430732484079816704,
                     "y" : 0.75
                   }
                 },
                 {
                   "cornerRadius" : 0,
                   "point" : {
-                    "x" : 0.99559613853503137,
-                    "y" : 0.74999999999999989
+                    "x" : 0.9955961385350311936,
+                    "y" : 0.7499999999999997952
                   }
                 }
               ]
@@ -450,7 +450,7 @@
     "531DFD6E-C292-47AC-8B39-B85EA3FEE89B" : {
       "properties" : {
         "alignmentMode" : "center",
-        "bounds.size.height" : 43.020000000000003,
+        "bounds.size.height" : 43.02,
         "bounds.size.width" : 274.63,
         "font" : {
           "name" : "BasierCircle-Bold",
@@ -459,13 +459,13 @@
         "fontSize" : 32,
         "foregroundColor" : {
           "alpha" : 1,
-          "blue" : 0.47100000000000003,
-          "green" : 0.0040000000000000001,
-          "red" : 0.99199999999999999
+          "blue" : 0.471,
+          "green" : 0.004,
+          "red" : 0.992
         },
         "opacity" : 0,
         "position.x" : 198,
-        "position.y" : 534.32000000000005,
+        "position.y" : 534.3200000000001024,
         "string" : "The Timeline"
       }
     },
@@ -483,7 +483,7 @@
                   "cornerRadius" : 0,
                   "curveTo" : {
                     "x" : 1,
-                    "y" : 0.77614155684680919
+                    "y" : 0.7761415568468092928
                   },
                   "point" : {
                     "x" : 1,
@@ -493,15 +493,15 @@
                 {
                   "cornerRadius" : 0,
                   "curveFrom" : {
-                    "x" : 0.77614157094856717,
+                    "x" : 0.7761415709485672448,
                     "y" : 1
                   },
                   "curveTo" : {
-                    "x" : 0.22385842905143294,
+                    "x" : 0.223858429051432832,
                     "y" : 1
                   },
                   "point" : {
-                    "x" : 0.50000158342596379,
+                    "x" : 0.5000015834259638272,
                     "y" : 1
                   }
                 },
@@ -509,11 +509,11 @@
                   "cornerRadius" : 0,
                   "curveFrom" : {
                     "x" : 0,
-                    "y" : 0.77614155684680919
+                    "y" : 0.7761415568468092928
                   },
                   "curveTo" : {
                     "x" : 0,
-                    "y" : 0.22385844315319081
+                    "y" : 0.2238584431531908608
                   },
                   "point" : {
                     "x" : 0,
@@ -523,15 +523,15 @@
                 {
                   "cornerRadius" : 0,
                   "curveFrom" : {
-                    "x" : 0.22385842905143294,
+                    "x" : 0.223858429051432832,
                     "y" : 0
                   },
                   "curveTo" : {
-                    "x" : 0.77614157094856717,
+                    "x" : 0.7761415709485672448,
                     "y" : 0
                   },
                   "point" : {
-                    "x" : 0.50000158342596379,
+                    "x" : 0.5000015834259638272,
                     "y" : 0
                   }
                 },
@@ -539,7 +539,7 @@
                   "cornerRadius" : 0,
                   "curveFrom" : {
                     "x" : 1,
-                    "y" : 0.22385844315319081
+                    "y" : 0.2238584431531908608
                   },
                   "point" : {
                     "x" : 1,
@@ -623,7 +623,7 @@
     "6332CDD6-9FE4-4204-B8BF-DEC183D9819F" : {
       "properties" : {
         "alignmentMode" : "center",
-        "bounds.size.height" : 43.020000000000003,
+        "bounds.size.height" : 43.02,
         "bounds.size.width" : 274.63,
         "font" : {
           "name" : "BasierCircle-Bold",
@@ -632,13 +632,13 @@
         "fontSize" : 32,
         "foregroundColor" : {
           "alpha" : 1,
-          "blue" : 0.47100000000000003,
-          "green" : 0.0040000000000000001,
-          "red" : 0.99199999999999999
+          "blue" : 0.471,
+          "green" : 0.004,
+          "red" : 0.992
         },
         "opacity" : 0,
         "position.x" : 188,
-        "position.y" : 524.32000000000005,
+        "position.y" : 524.3200000000001024,
         "string" : "The Interface"
       }
     },
@@ -656,7 +656,7 @@
                   "cornerRadius" : 0,
                   "curveTo" : {
                     "x" : 1,
-                    "y" : 0.77614041261602051
+                    "y" : 0.77614041261602048
                   },
                   "point" : {
                     "x" : 1,
@@ -666,11 +666,11 @@
                 {
                   "cornerRadius" : 0,
                   "curveFrom" : {
-                    "x" : 0.77613856446974605,
+                    "x" : 0.7761385644697462784,
                     "y" : 1
                   },
                   "curveTo" : {
-                    "x" : 0.2238614355302542,
+                    "x" : 0.223861435530254336,
                     "y" : 1
                   },
                   "point" : {
@@ -682,11 +682,11 @@
                   "cornerRadius" : 0,
                   "curveFrom" : {
                     "x" : 0,
-                    "y" : 0.77614041261602051
+                    "y" : 0.77614041261602048
                   },
                   "curveTo" : {
                     "x" : 0,
-                    "y" : 0.22385225589818039
+                    "y" : 0.2238522558981804544
                   },
                   "point" : {
                     "x" : 0,
@@ -696,11 +696,11 @@
                 {
                   "cornerRadius" : 0,
                   "curveFrom" : {
-                    "x" : 0.2238614355302542,
+                    "x" : 0.223861435530254336,
                     "y" : 0
                   },
                   "curveTo" : {
-                    "x" : 0.77613856446974605,
+                    "x" : 0.7761385644697462784,
                     "y" : 0
                   },
                   "point" : {
@@ -712,7 +712,7 @@
                   "cornerRadius" : 0,
                   "curveFrom" : {
                     "x" : 1,
-                    "y" : 0.22385225589818039
+                    "y" : 0.2238522558981804544
                   },
                   "point" : {
                     "x" : 1,
@@ -743,7 +743,7 @@
     "99394F3C-9E3F-4EAD-8F09-AAA439ACFB3E" : {
       "properties" : {
         "alignmentMode" : "center",
-        "bounds.size.height" : 43.020000000000003,
+        "bounds.size.height" : 43.02,
         "bounds.size.width" : 274.63,
         "font" : {
           "name" : "BasierCircle-Bold",
@@ -752,13 +752,13 @@
         "fontSize" : 32,
         "foregroundColor" : {
           "alpha" : 1,
-          "blue" : 0.47100000000000003,
-          "green" : 0.0040000000000000001,
-          "red" : 0.99199999999999999
+          "blue" : 0.471,
+          "green" : 0.004,
+          "red" : 0.992
         },
         "opacity" : 0,
         "position.x" : 198,
-        "position.y" : 534.32000000000005,
+        "position.y" : 534.3200000000001024,
         "string" : "Layers Panel"
       }
     },
@@ -774,7 +774,7 @@
     "09532673-E7F5-4B52-BBB3-0F115F2C5E25" : {
       "properties" : {
         "alignmentMode" : "center",
-        "bounds.size.height" : 24.789999999999999,
+        "bounds.size.height" : 24.79,
         "bounds.size.width" : 122.17,
         "font" : {
           "name" : "BasierCircle-Medium",
@@ -783,13 +783,13 @@
         "fontSize" : 18,
         "foregroundColor" : {
           "alpha" : 1,
-          "blue" : 0.47100000000000003,
-          "green" : 0.0040000000000000001,
-          "red" : 0.99199999999999999
+          "blue" : 0.471,
+          "green" : 0.004,
+          "red" : 0.992
         },
         "opacity" : 0,
         "position.x" : 188,
-        "position.y" : 576.58000000000004,
+        "position.y" : 576.58,
         "string" : "please swipe"
       }
     },
@@ -806,32 +806,32 @@
                 {
                   "cornerRadius" : 0,
                   "point" : {
-                    "x" : 0.96478622935436764,
+                    "x" : 0.9647862293543673856,
                     "y" : 0
                   }
                 },
                 {
                   "cornerRadius" : 0,
                   "point" : {
-                    "x" : 0.60114905971749921,
+                    "x" : 0.6011490597174990848,
                     "y" : 0
                   }
                 },
                 {
                   "cornerRadius" : 0,
                   "point" : {
-                    "x" : 0.39878497481458197,
+                    "x" : 0.3987849748145818624,
                     "y" : 0
                   }
                 },
                 {
                   "cornerRadius" : 0,
                   "curveTo" : {
-                    "x" : 0.015727307586794564,
+                    "x" : 0.015727307586794569728,
                     "y" : 0
                   },
                   "point" : {
-                    "x" : 0.035147805177713445,
+                    "x" : 0.03514780517771343872,
                     "y" : 0
                   }
                 },
@@ -839,83 +839,83 @@
                   "cornerRadius" : 0,
                   "curveFrom" : {
                     "x" : 0,
-                    "y" : 0.024714371796071111
+                    "y" : 0.02471437179607110144
                   },
                   "point" : {
                     "x" : 0,
-                    "y" : 0.055232335235005793
+                    "y" : 0.05523233523500576768
                   }
                 },
                 {
                   "cornerRadius" : 0,
                   "curveTo" : {
                     "x" : 0,
-                    "y" : 0.99386060453911373
+                    "y" : 0.9938606045391136768
                   },
                   "point" : {
                     "x" : 0,
-                    "y" : 0.94466400461268618
+                    "y" : 0.9446640046126862336
                   }
                 },
                 {
                   "cornerRadius" : 0,
                   "curveFrom" : {
-                    "x" : 0.03785235662688765,
-                    "y" : 1.0185035475149651
+                    "x" : 0.0378523566268876544,
+                    "y" : 1.0185035475149647872
                   },
                   "point" : {
-                    "x" : 0.060000132990083305,
-                    "y" : 0.98371771206789371
+                    "x" : 0.06000013299008329728,
+                    "y" : 0.9837177120678936576
                   }
                 },
                 {
                   "cornerRadius" : 0,
                   "point" : {
-                    "x" : 0.36363716963686837,
-                    "y" : 0.50657319299923786
+                    "x" : 0.3636371696368684032,
+                    "y" : 0.5065731929992377344
                   }
                 },
                 {
                   "cornerRadius" : 0,
                   "curveTo" : {
-                    "x" : 0.36363716963686837,
-                    "y" : 0.99386060453911373
+                    "x" : 0.3636371696368684032,
+                    "y" : 0.9938606045391136768
                   },
                   "point" : {
-                    "x" : 0.36363716963686837,
-                    "y" : 0.94466400461268618
+                    "x" : 0.3636371696368684032,
+                    "y" : 0.9446640046126862336
                   }
                 },
                 {
                   "cornerRadius" : 0,
                   "curveFrom" : {
-                    "x" : 0.40148952626375622,
-                    "y" : 1.0185035475149651
+                    "x" : 0.4014895262637562368,
+                    "y" : 1.0185035475149647872
                   },
                   "point" : {
-                    "x" : 0.42363730262695165,
-                    "y" : 0.98371771206789371
+                    "x" : 0.42363730262695168,
+                    "y" : 0.9837177120678936576
                   }
                 },
                 {
                   "cornerRadius" : 0,
                   "curveTo" : {
-                    "x" : 1.0117749698683818,
-                    "y" : 0.059482350038087377
+                    "x" : 1.0117749698683815936,
+                    "y" : 0.05948235003808739328
                   },
                   "point" : {
-                    "x" : 0.98963855716673754,
-                    "y" : 0.094268185485158432
+                    "x" : 0.989638557166737408,
+                    "y" : 0.09426818548515842048
                   }
                 },
                 {
                   "cornerRadius" : 0,
                   "curveFrom" : {
-                    "x" : 0.99609311692779179,
+                    "x" : 0.9960931169277919232,
                     "y" : 0
                   },
                   "point" : {
-                    "x" : 0.96478622935436764,
+                    "x" : 0.9647862293543673856,
                     "y" : 0
                   }
                 }
@@ -925,9 +925,9 @@
         },
         "fillColor" : {
           "alpha" : 1,
-          "blue" : 0.47100000000000003,
-          "green" : 0.0040000000000000001,
-          "red" : 0.99199999999999999
+          "blue" : 0.471,
+          "green" : 0.004,
+          "red" : 0.992
         },
         "position.x" : 198,
         "position.y" : 334
@@ -946,14 +946,14 @@
                 {
                   "cornerRadius" : 0,
                   "point" : {
-                    "x" : 0.0012796336206897241,
+                    "x" : 0.0012796336206897238016,
                     "y" : 0.75
                   }
                 },
                 {
                   "cornerRadius" : 0,
                   "point" : {
-                    "x" : 0.9980132004310347,
+                    "x" : 0.9980132004310347776,
                     "y" : 0.75
                   }
                 }
@@ -988,15 +988,15 @@
                 {
                   "cornerRadius" : 0,
                   "point" : {
-                    "x" : 0.002264242256636996,
+                    "x" : 0.002264242256636996864,
                     "y" : 0.5
                   }
                 },
                 {
                   "cornerRadius" : 0,
                   "point" : {
-                    "x" : 0.99695796460176878,
-                    "y" : 0.50000000000000022
+                    "x" : 0.9969579646017695744,
+                    "y" : 0.5000000000000001024
                   }
                 }
               ]
@@ -1071,7 +1071,7 @@
       }
     }
   },
-  "name" : "Timeline",
+  "name" : "FlowOnboarding",
   "scene" : {
     "id" : "6F1BF27B-0FFD-4F49-9ADB-619F3B4B40E1",
     "ref" : "scenes\/6F1BF27B-0FFD-4F49-9ADB-619F3B4B40E1"
@@ -1108,28 +1108,28 @@
         ]
       },
       "position.y" : {
-        "initalValue" : 534.32000000000005,
+        "initalValue" : 534.3200000000001024,
         "keyvalues" : [
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.5,
-            "value" : 534.32000000000005
+            "value" : 534.3200000000001024
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 5,
-            "value" : 519.41000000000008
+            "value" : 519.4099999999998976
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 5.25,
-            "value" : 534.32000000000005
+            "value" : 534.3200000000001024
           }
         ]
       }
@@ -1183,14 +1183,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 268.64999999999998
+            "value" : 268.65
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 268.64999999999998
+            "value" : 268.65
           },
           {
             "easingCurve" : {
@@ -1216,14 +1216,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 134.31999999999999
+            "value" : 134.31999999999997952
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 134.31999999999999
+            "value" : 134.31999999999997952
           },
           {
             "easingCurve" : {
@@ -1249,14 +1249,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 0.98999999999999999
+            "value" : 0.99
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 0.98999999999999999
+            "value" : 0.99
           },
           {
             "easingCurve" : {
@@ -1303,35 +1303,35 @@
         ]
       },
       "position.y" : {
-        "initalValue" : 524.32000000000005,
+        "initalValue" : 524.3200000000001024,
         "keyvalues" : [
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 0,
-            "value" : 524.32000000000005
+            "value" : 524.3200000000001024
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 0.5,
-            "value" : 509.41000000000003
+            "value" : 509.41
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 1,
-            "value" : 509.41000000000003
+            "value" : 509.41
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 1.25,
-            "value" : 524.32000000000005
+            "value" : 524.3200000000001024
           }
         ]
       }
@@ -1352,14 +1352,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 128.40000000000001
+            "value" : 128.4
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 128.40000000000001
+            "value" : 128.4
           },
           {
             "easingCurve" : {
@@ -1418,14 +1418,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 2.75,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           },
           {
             "easingCurve" : {
@@ -1446,14 +1446,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3.75,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           },
           {
             "easingCurve" : {
@@ -1474,14 +1474,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 5,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 5.25,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           },
           {
             "easingCurve" : {
@@ -1540,14 +1540,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 423.71000000000004
+            "value" : 423.71
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 423.71000000000004
+            "value" : 423.71
           },
           {
             "easingCurve" : {
@@ -1575,14 +1575,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 73.090000000000003
+            "value" : 73.09000000000001024
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 73.090000000000003
+            "value" : 73.09000000000001024
           },
           {
             "easingCurve" : {
@@ -1608,14 +1608,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 94.820000000000007
+            "value" : 94.82
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 94.820000000000007
+            "value" : 94.82
           },
           {
             "easingCurve" : {
@@ -1641,7 +1641,7 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 5.5,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           }
         ]
       },
@@ -1660,14 +1660,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 312.10000000000002
+            "value" : 312.1
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 312.10000000000002
+            "value" : 312.1
           },
           {
             "easingCurve" : {
@@ -1693,14 +1693,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 151.11000000000001
+            "value" : 151.11000000000004096
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 151.11000000000001
+            "value" : 151.11000000000004096
           },
           {
             "easingCurve" : {
@@ -1728,14 +1728,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 357.54000000000002
+            "value" : 357.54
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 357.54000000000002
+            "value" : 357.54
           },
           {
             "easingCurve" : {
@@ -1761,14 +1761,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 94.820000000000007
+            "value" : 94.82
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 94.820000000000007
+            "value" : 94.82
           },
           {
             "easingCurve" : {
@@ -1794,7 +1794,7 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 5,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           }
         ]
       },
@@ -1813,14 +1813,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 47.410000000000004
+            "value" : 47.41
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 47.410000000000004
+            "value" : 47.41
           },
           {
             "easingCurve" : {
@@ -1846,14 +1846,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 178.77000000000001
+            "value" : 178.77
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 178.77000000000001
+            "value" : 178.77
           },
           {
             "easingCurve" : {
@@ -1881,14 +1881,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 47.410000000000004
+            "value" : 47.41
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 47.410000000000004
+            "value" : 47.41
           },
           {
             "easingCurve" : {
@@ -1914,14 +1914,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 47.410000000000004
+            "value" : 47.41
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 47.410000000000004
+            "value" : 47.41
           },
           {
             "easingCurve" : {
@@ -1947,14 +1947,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 23.710000000000001
+            "value" : 23.71
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 23.710000000000001
+            "value" : 23.71
           },
           {
             "easingCurve" : {
@@ -1980,14 +1980,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 23.699999999999999
+            "value" : 23.7
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 23.699999999999999
+            "value" : 23.7
           },
           {
             "easingCurve" : {
@@ -2015,14 +2015,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 49.380000000000003
+            "value" : 49.38
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 49.380000000000003
+            "value" : 49.38
           },
           {
             "easingCurve" : {
@@ -2048,14 +2048,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 608.40999999999997
+            "value" : 608.4099999999998976
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 608.40999999999997
+            "value" : 608.4099999999998976
           },
           {
             "easingCurve" : {
@@ -2081,14 +2081,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 2.75,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           },
           {
             "easingCurve" : {
@@ -2109,14 +2109,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3.75,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           },
           {
             "easingCurve" : {
@@ -2137,14 +2137,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 5,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 5.25,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           },
           {
             "easingCurve" : {
@@ -2170,14 +2170,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 347.66000000000003
+            "value" : 347.66
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 347.66000000000003
+            "value" : 347.66
           },
           {
             "easingCurve" : {
@@ -2203,14 +2203,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 423.71000000000004
+            "value" : 423.71
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 423.71000000000004
+            "value" : 423.71
           },
           {
             "easingCurve" : {
@@ -2238,14 +2238,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 357.54000000000002
+            "value" : 357.54
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 357.54000000000002
+            "value" : 357.54
           },
           {
             "easingCurve" : {
@@ -2304,14 +2304,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 2.75,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           },
           {
             "easingCurve" : {
@@ -2332,14 +2332,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3.75,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           },
           {
             "easingCurve" : {
@@ -2360,7 +2360,7 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 5.5,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           }
         ]
       },
@@ -2412,14 +2412,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 178.77000000000001
+            "value" : 178.77
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 178.77000000000001
+            "value" : 178.77
           },
           {
             "easingCurve" : {
@@ -2459,28 +2459,28 @@
         ]
       },
       "position.y" : {
-        "initalValue" : 534.32000000000005,
+        "initalValue" : 534.3200000000001024,
         "keyvalues" : [
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 3.5,
-            "value" : 534.32000000000005
+            "value" : 534.3200000000001024
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4,
-            "value" : 519.41000000000008
+            "value" : 519.4099999999998976
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 534.32000000000005
+            "value" : 534.3200000000001024
           }
         ]
       }
@@ -2501,14 +2501,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 3.9500000000000002
+            "value" : 3.95
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 3.9500000000000002
+            "value" : 3.95
           },
           {
             "easingCurve" : {
@@ -2600,14 +2600,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 47.399999999999999
+            "value" : 47.4
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 47.399999999999999
+            "value" : 47.4
           },
           {
             "easingCurve" : {
@@ -2640,21 +2640,21 @@
         ]
       },
       "position.y" : {
-        "initalValue" : 534.32000000000005,
+        "initalValue" : 534.3200000000001024,
         "keyvalues" : [
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 5.5,
-            "value" : 534.32000000000005
+            "value" : 534.3200000000001024
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 6,
-            "value" : 519.41000000000008
+            "value" : 519.4099999999998976
           }
         ]
       }
@@ -2675,14 +2675,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 57.289999999999999
+            "value" : 57.29
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 57.289999999999999
+            "value" : 57.29
           },
           {
             "easingCurve" : {
@@ -2708,14 +2708,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 57.289999999999999
+            "value" : 57.29
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 57.289999999999999
+            "value" : 57.29
           },
           {
             "easingCurve" : {
@@ -2741,14 +2741,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 66.180000000000007
+            "value" : 66.18000000000001024
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 66.180000000000007
+            "value" : 66.18000000000001024
           },
           {
             "easingCurve" : {
@@ -2774,14 +2774,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 44.450000000000003
+            "value" : 44.45
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 44.450000000000003
+            "value" : 44.45
           },
           {
             "easingCurve" : {
@@ -2875,7 +2875,7 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 5.5,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           }
         ]
       },
@@ -2927,14 +2927,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 178.77000000000001
+            "value" : 178.77
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 178.77000000000001
+            "value" : 178.77
           },
           {
             "easingCurve" : {
@@ -2974,28 +2974,28 @@
         ]
       },
       "position.y" : {
-        "initalValue" : 524.32000000000005,
+        "initalValue" : 524.3200000000001024,
         "keyvalues" : [
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 1.5,
-            "value" : 524.32000000000005
+            "value" : 524.3200000000001024
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 2,
-            "value" : 509.41000000000003
+            "value" : 509.41
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 2.25,
-            "value" : 524.32000000000005
+            "value" : 524.3200000000001024
           }
         ]
       }
@@ -3016,14 +3016,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 23.699999999999999
+            "value" : 23.7
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 23.699999999999999
+            "value" : 23.7
           },
           {
             "easingCurve" : {
@@ -3049,14 +3049,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 23.710000000000001
+            "value" : 23.71
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 23.710000000000001
+            "value" : 23.71
           },
           {
             "easingCurve" : {
@@ -3082,14 +3082,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 43.460000000000001
+            "value" : 43.46
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 43.460000000000001
+            "value" : 43.46
           },
           {
             "easingCurve" : {
@@ -3115,14 +3115,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 33.579999999999998
+            "value" : 33.57999999999999488
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 33.579999999999998
+            "value" : 33.57999999999999488
           },
           {
             "easingCurve" : {
@@ -3162,28 +3162,28 @@
         ]
       },
       "position.y" : {
-        "initalValue" : 534.32000000000005,
+        "initalValue" : 534.3200000000001024,
         "keyvalues" : [
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 2.5,
-            "value" : 534.32000000000005
+            "value" : 534.3200000000001024
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 519.41000000000008
+            "value" : 519.4099999999998976
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 3.25,
-            "value" : 534.32000000000005
+            "value" : 534.3200000000001024
           }
         ]
       }
@@ -3204,14 +3204,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 487.91000000000003
+            "value" : 487.91
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 487.91000000000003
+            "value" : 487.91
           },
           {
             "easingCurve" : {
@@ -3289,28 +3289,28 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 487.94999999999999
+            "value" : 487.95
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 3.25,
-            "value" : 487.94999999999999
+            "value" : 487.95
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
-            "time" : 3.4900000000000002,
-            "value" : -108.60000000000001
+            "time" : 3.490000000000000512,
+            "value" : -108.6
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : -108.60000000000001
+            "value" : -108.6
           },
           {
             "easingCurve" : {
@@ -3390,35 +3390,35 @@
         ]
       },
       "position.y" : {
-        "initalValue" : 576.58000000000004,
+        "initalValue" : 576.58,
         "keyvalues" : [
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 0.25,
-            "value" : 576.58000000000004
+            "value" : 576.58
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 0.75,
-            "value" : 548.40999999999997
+            "value" : 548.4099999999998976
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 1,
-            "value" : 548.40999999999997
+            "value" : 548.4099999999998976
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 1.25,
-            "value" : 576.58000000000004
+            "value" : 576.58
           }
         ]
       }
@@ -3460,14 +3460,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 3.9500000000000002
+            "value" : 3.95
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 3.9500000000000002
+            "value" : 3.95
           },
           {
             "easingCurve" : {
@@ -3493,14 +3493,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 543.22000000000003
+            "value" : 543.2200000000001024
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 543.22000000000003
+            "value" : 543.2200000000001024
           },
           {
             "easingCurve" : {
@@ -3526,14 +3526,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 336.80000000000001
+            "value" : 336.8
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 336.80000000000001
+            "value" : 336.8
           },
           {
             "easingCurve" : {
@@ -3559,14 +3559,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 15.800000000000001
+            "value" : 15.8
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 15.800000000000001
+            "value" : 15.8
           },
           {
             "easingCurve" : {
@@ -3627,14 +3627,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 353.59000000000003
+            "value" : 353.5900000000000512
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 353.59000000000003
+            "value" : 353.5900000000000512
           },
           {
             "easingCurve" : {
@@ -3660,14 +3660,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 336.80000000000001
+            "value" : 336.8
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 336.80000000000001
+            "value" : 336.8
           },
           {
             "easingCurve" : {
@@ -3693,14 +3693,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 32.590000000000003
+            "value" : 32.59000000000000512
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 32.590000000000003
+            "value" : 32.59000000000000512
           },
           {
             "easingCurve" : {
@@ -3728,14 +3728,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 357.54000000000002
+            "value" : 357.54
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 357.54000000000002
+            "value" : 357.54
           },
           {
             "easingCurve" : {
@@ -3761,14 +3761,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 94.820000000000007
+            "value" : 94.82
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 94.820000000000007
+            "value" : 94.82
           },
           {
             "easingCurve" : {
@@ -3794,7 +3794,7 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 5,
-            "value" : 0.050000000000000003
+            "value" : 0.05
           }
         ]
       },
@@ -3813,14 +3813,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 643.96000000000004
+            "value" : 643.96
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 643.96000000000004
+            "value" : 643.96
           },
           {
             "easingCurve" : {
@@ -3846,14 +3846,14 @@
               "name" : "Ease In Ease Out"
             },
             "time" : 3,
-            "value" : 178.77000000000001
+            "value" : 178.77
           },
           {
             "easingCurve" : {
               "name" : "Ease In Ease Out"
             },
             "time" : 4.25,
-            "value" : 178.77000000000001
+            "value" : 178.77
           },
           {
             "easingCurve" : {
