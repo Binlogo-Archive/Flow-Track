@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="ArtboardViewController">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Start View Controller-->
+        <scene sceneID="026E44EE-0823-416B-B93F-8786DD0A2AFF">
+            <objects>
+                <viewController storyboardIdentifier="StartViewController" id="StartViewController" customClass="StartViewController" customModule="BlueLaunch" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="E5256719-0551-495B-AAA4-1C139466D98C"/>
+                        <viewControllerLayoutGuide type="bottom" id="DF0CFDC4-F805-4EBB-9FE9-6C6E9BFD3FB1"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="DE3DDE40-6FBF-4EE1-94AE-05061D684E43">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="F901DD81-3D89-4ED2-B201-5904314B5B6D" userLabel="StartView" customClass="StartView" customModule="BlueLaunch" customModuleProvider="target">
+                                <rect key="frame" x="37.5" y="183.5" width="300" height="300"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="300" id="j34-GD-VQT"/>
+                                    <constraint firstAttribute="height" constant="300" id="mae-Dg-r3c"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <gestureRecognizers/>
+                        <constraints>
+                            <constraint firstItem="F901DD81-3D89-4ED2-B201-5904314B5B6D" firstAttribute="centerX" secondItem="DE3DDE40-6FBF-4EE1-94AE-05061D684E43" secondAttribute="centerX" id="E308CF2E-54D1-4A90-AECE-64BB09985C6D"/>
+                            <constraint firstItem="F901DD81-3D89-4ED2-B201-5904314B5B6D" firstAttribute="centerY" secondItem="DE3DDE40-6FBF-4EE1-94AE-05061D684E43" secondAttribute="centerY" id="FF78E358-8200-456E-8E7B-B35AA115B17E"/>
+                        </constraints>
+                    </view>
+                    <value key="contentSizeForViewInPopover" type="size" width="375" height="375"/>
+                    <connections>
+                        <outlet property="start" destination="F901DD81-3D89-4ED2-B201-5904314B5B6D" id="eNY-ne-leT"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="39B60F51-F067-4C9D-AF68-8B7E55911961" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="0.0" y="0.0"/>
+        </scene>
+        <!--Artboard View Controller-->
+        <scene sceneID="uPg-I4-Jwi">
+            <objects>
+                <viewController id="ArtboardViewController" customClass="ArtboardViewController" customModule="BlueLaunch" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="96DAB974-E2C8-433C-8953-CDD979AFF9E7"/>
+                        <viewControllerLayoutGuide type="bottom" id="79C2ACF6-59C7-40D8-B189-2CEEE4BFCE72"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="E6447E1B-BFBF-46DE-964B-DEFC874B5E23">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="2471FF91-165F-4E10-BC5A-1F50A9A6BDB4" customClass="ArtboardView" customModule="BlueLaunch" customModuleProvider="target">
+                                <rect key="frame" x="27.5" y="299.5" width="320" height="68"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="68" id="F34-UY-EOV"/>
+                                    <constraint firstAttribute="width" constant="320" id="lnu-tW-77y"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" red="0.0" green="0.0" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="2471FF91-165F-4E10-BC5A-1F50A9A6BDB4" firstAttribute="centerX" secondItem="E6447E1B-BFBF-46DE-964B-DEFC874B5E23" secondAttribute="centerX" id="4F1129DF-C1C6-4C3D-B071-34CE0CCE7D5B"/>
+                            <constraint firstItem="2471FF91-165F-4E10-BC5A-1F50A9A6BDB4" firstAttribute="centerY" secondItem="E6447E1B-BFBF-46DE-964B-DEFC874B5E23" secondAttribute="centerY" id="D3A32947-042F-4AF5-9F1F-C4197AA91EF0"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="artboard" destination="2471FF91-165F-4E10-BC5A-1F50A9A6BDB4" id="DD64DC7B-BE1C-48EE-BCAA-AF3DBFE69171"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="478F5E8E-2BC8-42CA-BBCC-6EDE327F15E7" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1" y="649"/>
+        </scene>
+    </scenes>
+</document>
