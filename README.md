@@ -1,5 +1,5 @@
 # Flow-Track
-Flow, Animate Sketch designs. Master it with ❤️.
+[Flow](https://createwithflow.com), Animate Sketch designs. Master it with ❤️.
 
 ## Learn Flow
 
@@ -12,3 +12,30 @@ Flow, Animate Sketch designs. Master it with ❤️.
 ### Showcase
 
 ![Learn Flow Showcase](./LearnFlow/LearnFlow.gif)
+
+
+
+## Tutorials
+
+* Launch Animations
+
+![Launch Animation](./LaunchAnimation/flowLaunchAnimationAnimated.gif)
+
+* Launch Animations with Content on the First Frame
+
+![Launch Animations II](./LaunchAnimation-II/blueLaunch.gif)
+
+* Onboarding Animations
+
+![Launch Animations II](./OnboardingAnimation/onboardingAnimation.gif)
+
+* Rotation, Scaling and Easing
+
+![Animated Twitter Logo](./BasicAnimationWithTwitterLogo/twitter.gif)
+
+
+
+## Copyright
+
+All materials from [Flow](https://createwithflow.com) are Copyright  **JABT Labs Inc**. Thanks for the awesome creative tool.
+
