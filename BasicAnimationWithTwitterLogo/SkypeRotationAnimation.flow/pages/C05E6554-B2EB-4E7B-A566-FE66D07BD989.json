@@ -1,0 +1,34 @@
+{
+  "id" : "C05E6554-B2EB-4E7B-A566-FE66D07BD989",
+  "name" : "Originals",
+  "scenes" : [
+    {
+      "id" : "1CF9512E-19C9-4818-AF4C-481A06054F4B",
+      "ref" : "imported\/1CF9512E-19C9-4818-AF4C-481A06054F4B"
+    },
+    {
+      "id" : "F0B73899-4C90-4B05-B87F-0A7CE8D5625E",
+      "ref" : "imported\/F0B73899-4C90-4B05-B87F-0A7CE8D5625E"
+    },
+    {
+      "id" : "34B1F121-027F-46FA-B073-EA013A05D4C1",
+      "ref" : "imported\/34B1F121-027F-46FA-B073-EA013A05D4C1"
+    },
+    {
+      "id" : "FB8016FD-5188-471E-B4B4-9007F2D4A3DA",
+      "ref" : "imported\/FB8016FD-5188-471E-B4B4-9007F2D4A3DA"
+    },
+    {
+      "id" : "5DBC8C68-2AE4-49ED-A8CC-F8E2E589439A",
+      "ref" : "imported\/5DBC8C68-2AE4-49ED-A8CC-F8E2E589439A"
+    },
+    {
+      "id" : "4229F1BB-CE48-419C-88C8-8E2C6EB9294B",
+      "ref" : "imported\/4229F1BB-CE48-419C-88C8-8E2C6EB9294B"
+    },
+    {
+      "id" : "E5E12AB1-3971-49A7-ADAC-9ABD863125C1",
+      "ref" : "imported\/E5E12AB1-3971-49A7-ADAC-9ABD863125C1"
+    }
+  ]
+}

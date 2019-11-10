@@ -1,0 +1,14 @@
+{
+  "id" : "EE45CF2D-519E-4F90-A06F-2259D73BC47A",
+  "name" : "Sketch",
+  "scenes" : [
+    {
+      "id" : "CA273E19-FEEF-4E9D-A8DD-3DCCB06AC49C",
+      "ref" : "imported\/CA273E19-FEEF-4E9D-A8DD-3DCCB06AC49C"
+    },
+    {
+      "id" : "3B8BFDDD-ABDC-4E47-A95E-9308B026F136",
+      "ref" : "imported\/3B8BFDDD-ABDC-4E47-A95E-9308B026F136"
+    }
+  ]
+}

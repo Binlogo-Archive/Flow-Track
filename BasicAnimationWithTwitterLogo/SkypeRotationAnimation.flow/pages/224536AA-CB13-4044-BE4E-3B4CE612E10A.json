@@ -1,0 +1,14 @@
+{
+  "id" : "224536AA-CB13-4044-BE4E-3B4CE612E10A",
+  "name" : "Skype",
+  "scenes" : [
+    {
+      "id" : "060EAB37-C984-4850-A635-9A37E0B6C883",
+      "ref" : "imported\/060EAB37-C984-4850-A635-9A37E0B6C883"
+    },
+    {
+      "id" : "DCA6C283-D013-42C9-AB9D-FCA8E8648BBD",
+      "ref" : "imported\/DCA6C283-D013-42C9-AB9D-FCA8E8648BBD"
+    }
+  ]
+}

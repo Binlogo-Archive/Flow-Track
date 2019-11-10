@@ -1,0 +1,511 @@
+{
+  "adjustContentOnResize" : false,
+  "defaultConfiguration" : {
+    "6B3D99D2-5447-43DD-9A4F-1B1E71366A23" : {
+      "properties" : {
+        "bounds.size.height" : 200,
+        "bounds.size.width" : 200,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : true,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.270657142857141504,
+                    "y" : 0.5519
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.45705,
+                    "y" : 0.676369760281504768
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.45705,
+                    "y" : 0.8767000000000002048
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.12055,
+                    "y" : 0.652368704640423936
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.270657142857141504,
+                    "y" : 0.5519
+                  }
+                }
+              ]
+            },
+            {
+              "closed" : true,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.08595000000000002048,
+                    "y" : 0.4280000000000001024
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.1936500000000000512,
+                    "y" : 0.5
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.08595000000000002048,
+                    "y" : 0.572
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.08595000000000002048,
+                    "y" : 0.4280000000000001024
+                  }
+                }
+              ]
+            },
+            {
+              "closed" : true,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.54295,
+                    "y" : 0.676369760281504768
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.7293428571428585472,
+                    "y" : 0.5519
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.87945,
+                    "y" : 0.652368704640423936
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.54295,
+                    "y" : 0.8767000000000002048
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.54295,
+                    "y" : 0.676369760281504768
+                  }
+                }
+              ]
+            },
+            {
+              "closed" : true,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.3482249999999999488,
+                    "y" : 0.5
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.5,
+                    "y" : 0.398425
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.651775,
+                    "y" : 0.5
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.5,
+                    "y" : 0.601575
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.3482249999999999488,
+                    "y" : 0.5
+                  }
+                }
+              ]
+            },
+            {
+              "closed" : true,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.54295,
+                    "y" : 0.323665955575105024
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.54295,
+                    "y" : 0.12329999999999997952
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.87945,
+                    "y" : 0.3476312953595781632
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.7293428571428585472,
+                    "y" : 0.4481000000000001024
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.54295,
+                    "y" : 0.323665955575105024
+                  }
+                }
+              ]
+            },
+            {
+              "closed" : true,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.91405,
+                    "y" : 0.4280000000000001024
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.91405,
+                    "y" : 0.572
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.8063499999999997952,
+                    "y" : 0.5
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.91405,
+                    "y" : 0.4280000000000001024
+                  }
+                }
+              ]
+            },
+            {
+              "closed" : true,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.45945,
+                    "y" : 0.323665955575105024
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.45945,
+                    "y" : 0.12329999999999997952
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.12295000000000002048,
+                    "y" : 0.3476312953595781632
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.2730571428571415552,
+                    "y" : 0.4481000000000001024
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.45945,
+                    "y" : 0.323665955575105024
+                  }
+                }
+              ]
+            },
+            {
+              "closed" : true,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.9810357142857158656,
+                    "y" : 0.3119285714285707264
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 0.5161785714285705216,
+                    "y" : 0.00242857142857084416
+                  },
+                  "point" : {
+                    "x" : 0.5240000000000009216,
+                    "y" : 0.007249999999999090688
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.5081785714285727744,
+                    "y" : 0
+                  },
+                  "curveTo" : {
+                    "x" : 0.4918214285714311168,
+                    "y" : 0
+                  },
+                  "point" : {
+                    "x" : 0.5,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.4838214285714294784,
+                    "y" : 0.00242857142857084416
+                  },
+                  "point" : {
+                    "x" : 0.4759999999999990784,
+                    "y" : 0.007249999999999090688
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 0.00632142857142931968,
+                    "y" : 0.3204999999999995392
+                  },
+                  "point" : {
+                    "x" : 0.01896428571428796416,
+                    "y" : 0.3119285714285707264
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0,
+                    "y" : 0.3323928571428576256
+                  },
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0.347642857142856448
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 0,
+                    "y" : 0.667607142857142272
+                  },
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0.6523571428571435008
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.00632142857142931968,
+                    "y" : 0.6795000000000001024
+                  },
+                  "point" : {
+                    "x" : 0.01896428571428796416,
+                    "y" : 0.6880714285714292736
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 0.4838214285714294784,
+                    "y" : 0.9975714285714292736
+                  },
+                  "point" : {
+                    "x" : 0.4759999999999990784,
+                    "y" : 0.9927499999999987712
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.4918214285714311168,
+                    "y" : 1
+                  },
+                  "curveTo" : {
+                    "x" : 0.5081785714285727744,
+                    "y" : 1
+                  },
+                  "point" : {
+                    "x" : 0.5,
+                    "y" : 1
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.5161785714285705216,
+                    "y" : 0.9975714285714292736
+                  },
+                  "point" : {
+                    "x" : 0.5240000000000009216,
+                    "y" : 0.9927499999999987712
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 0.9936785714285707264,
+                    "y" : 0.6795000000000001024
+                  },
+                  "point" : {
+                    "x" : 0.9810357142857158656,
+                    "y" : 0.6880714285714292736
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 1,
+                    "y" : 0.667607142857142272
+                  },
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0.6523571428571435008
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 1,
+                    "y" : 0.3323928571428576256
+                  },
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0.347642857142856448
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.9936785714285707264,
+                    "y" : 0.3204999999999995392
+                  },
+                  "point" : {
+                    "x" : 0.9810357142857158656,
+                    "y" : 0.3119285714285707264
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "fillColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 1,
+          "red" : 1
+        },
+        "operation" : 0,
+        "position.x" : 188,
+        "position.y" : 188,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 1,
+          "red" : 1
+        }
+      }
+    },
+    "121B4D52-B03A-41EB-8FE7-DE471AC3AF2D" : {
+      "properties" : {
+        "backgroundColor" : {
+          "alpha" : 1,
+          "blue" : 0.03500000000000000512,
+          "green" : 0.04300000000000001024,
+          "red" : 0.039
+        },
+        "bounds.size.height" : 375,
+        "bounds.size.width" : 375,
+        "position.x" : 187.5,
+        "position.y" : 187.5
+      }
+    }
+  },
+  "id" : "4D8B616C-AADA-46C0-84D8-B07785404161",
+  "name" : "CodePen",
+  "rootLayer" : {
+    "aspectRatioUnlocked" : true,
+    "id" : "121B4D52-B03A-41EB-8FE7-DE471AC3AF2D",
+    "isClippingMask" : false,
+    "locked" : false,
+    "masksToBounds" : false,
+    "name" : "CodePen",
+    "resizingConstraint" : 0,
+    "sublayers" : [
+      {
+        "aspectRatioUnlocked" : true,
+        "id" : "6B3D99D2-5447-43DD-9A4F-1B1E71366A23",
+        "isClippingMask" : false,
+        "locked" : false,
+        "masksToBounds" : false,
+        "name" : "Icon Copy",
+        "resizingConstraint" : 0,
+        "type" : "shape",
+        "visible" : true
+      }
+    ],
+    "type" : "group",
+    "visible" : true
+  }
+}
