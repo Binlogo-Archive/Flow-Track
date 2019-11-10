@@ -1,0 +1,1338 @@
+{
+  "adjustContentOnResize" : false,
+  "defaultConfiguration" : {
+    "1E8CE275-38A0-41D4-B557-7D985B0574A0" : {
+      "properties" : {
+        "alignmentMode" : "center",
+        "bounds.size.height" : 43.020000000000003,
+        "bounds.size.width" : 274.63,
+        "font" : {
+          "name" : "BasierCircle-Bold",
+          "size" : 40
+        },
+        "fontSize" : 32,
+        "foregroundColor" : {
+          "alpha" : 1,
+          "blue" : 0.47100000000000003,
+          "green" : 0.0040000000000000001,
+          "red" : 0.99199999999999999
+        },
+        "opacity" : 0,
+        "position.x" : 198,
+        "position.y" : 534.32000000000005,
+        "string" : "The Stage"
+      }
+    },
+    "2CE6024C-1411-4157-BEA6-EB05934B80AC" : {
+      "properties" : {
+        "bounds.size.height" : 1,
+        "bounds.size.width" : 136,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : false,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0.49999999999999939
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.99492872807017541,
+                    "y" : 0.5
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "lineCap" : "round",
+        "lineJoin" : "round",
+        "lineWidth" : 6,
+        "operation" : 0,
+        "position.x" : 68,
+        "position.y" : 0.5,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 0,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "5FD53F0A-5623-4270-9BE5-00F13C04B366" : {
+      "properties" : {
+        "alignmentMode" : "left",
+        "bounds.size.height" : 48,
+        "bounds.size.width" : 326,
+        "font" : {
+          "name" : "BasierCircle-Bold",
+          "size" : 40
+        },
+        "fontSize" : 40,
+        "position.x" : 188,
+        "position.y" : 560.09765625,
+        "string" : "Welcome to Flow"
+      }
+    },
+    "6B3E5E50-B58C-4E57-836A-54D87E74EB51" : {
+      "properties" : {
+        "backgroundColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 1,
+          "red" : 1
+        },
+        "bounds.size.height" : 812,
+        "bounds.size.width" : 375,
+        "position.x" : 187.5,
+        "position.y" : 406
+      }
+    },
+    "6C409C33-D4E2-408C-B578-90198DCDF5D3" : {
+      "properties" : {
+        "bounds.size.height" : 65,
+        "bounds.size.width" : 350,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : true,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 10,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 1
+                  }
+                },
+                {
+                  "cornerRadius" : 10,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "fillColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 1,
+          "red" : 1
+        },
+        "lineWidth" : 10,
+        "position.x" : 188,
+        "position.y" : 435.5,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 0,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "8FA98086-BAE7-4727-A883-FB75D9041EFC" : {
+      "properties" : {
+        "bounds.size.height" : 37,
+        "bounds.size.width" : 48,
+        "position.x" : 171,
+        "position.y" : 297.5
+      }
+    },
+    "9A58A3F6-BA3C-4D9F-B3C1-F3499BD35CFB" : {
+      "properties" : {
+        "bounds.size.height" : 181,
+        "bounds.size.width" : 48,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : true,
+              "points" : [
+                {
+                  "cornerRadius" : 10,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 1
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "lineWidth" : 10,
+        "position.x" : 37,
+        "position.y" : 311.5,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 0,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "9EFEE69E-EA30-4225-804D-796335B2FC12" : {
+      "properties" : {
+        "bounds.size.height" : 24,
+        "bounds.size.width" : 24,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : false,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 0,
+                    "y" : 0.22385816482296106
+                  },
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0.49999803791532427
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.22385615782116322,
+                    "y" : 0
+                  },
+                  "curveTo" : {
+                    "x" : 0.7761438421788367,
+                    "y" : 0
+                  },
+                  "point" : {
+                    "x" : 0.5,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 1,
+                    "y" : 0.22385816482296106
+                  },
+                  "curveTo" : {
+                    "x" : 1,
+                    "y" : 0.77614183517703883
+                  },
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0.49999803791532427
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.7761438421788367,
+                    "y" : 1
+                  },
+                  "curveTo" : {
+                    "x" : 0.22385615782116322,
+                    "y" : 1
+                  },
+                  "point" : {
+                    "x" : 0.5,
+                    "y" : 1
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0,
+                    "y" : 0.77614183517703883
+                  },
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0.49999803791532427
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "fillColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 1,
+          "red" : 1
+        },
+        "lineWidth" : 2,
+        "position.x" : 12,
+        "position.y" : 12,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 0,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "12A9A468-4B03-4951-A88C-3C8EF7850612" : {
+      "properties" : {
+        "bounds.size.height" : 25,
+        "bounds.size.width" : 308,
+        "position.x" : 189,
+        "position.y" : 435.5
+      }
+    },
+    "23E21613-85FF-421F-BDC7-9B486D92324B" : {
+      "properties" : {
+        "bounds.size.height" : 181,
+        "bounds.size.width" : 256,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : true,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 1
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "lineWidth" : 10,
+        "position.x" : 188,
+        "position.y" : 311.5,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 0,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "30C06D7A-7E20-4289-8124-5761DEA21BE6" : {
+      "properties" : {
+        "alignmentMode" : "center",
+        "bounds.size.height" : 43.020000000000003,
+        "bounds.size.width" : 274.63,
+        "font" : {
+          "name" : "BasierCircle-Bold",
+          "size" : 40
+        },
+        "fontSize" : 32,
+        "foregroundColor" : {
+          "alpha" : 1,
+          "blue" : 0.47100000000000003,
+          "green" : 0.0040000000000000001,
+          "red" : 0.99199999999999999
+        },
+        "opacity" : 0,
+        "position.x" : 198,
+        "position.y" : 534.32000000000005,
+        "string" : "Properties Panel"
+      }
+    },
+    "37A9BDFF-F0A0-4AE3-A7A4-1503CDE9C602" : {
+      "properties" : {
+        "bounds.size.height" : 2,
+        "bounds.size.width" : 124,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : false,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.0014430732484079813,
+                    "y" : 0.75
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.99559613853503137,
+                    "y" : 0.74999999999999989
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "lineCap" : "round",
+        "lineJoin" : "round",
+        "lineWidth" : 6,
+        "operation" : 0,
+        "position.x" : 246,
+        "position.y" : 24,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 0,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "531DFD6E-C292-47AC-8B39-B85EA3FEE89B" : {
+      "properties" : {
+        "alignmentMode" : "center",
+        "bounds.size.height" : 43.020000000000003,
+        "bounds.size.width" : 274.63,
+        "font" : {
+          "name" : "BasierCircle-Bold",
+          "size" : 40
+        },
+        "fontSize" : 32,
+        "foregroundColor" : {
+          "alpha" : 1,
+          "blue" : 0.47100000000000003,
+          "green" : 0.0040000000000000001,
+          "red" : 0.99199999999999999
+        },
+        "opacity" : 0,
+        "position.x" : 198,
+        "position.y" : 534.32000000000005,
+        "string" : "The Timeline"
+      }
+    },
+    "816D7397-36C3-48D2-BB35-3DEE02CF413B" : {
+      "properties" : {
+        "bounds.size.height" : 29,
+        "bounds.size.width" : 29,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : false,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 1,
+                    "y" : 0.77614155684680919
+                  },
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0.5
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.77614157094856717,
+                    "y" : 1
+                  },
+                  "curveTo" : {
+                    "x" : 0.22385842905143294,
+                    "y" : 1
+                  },
+                  "point" : {
+                    "x" : 0.50000158342596379,
+                    "y" : 1
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0,
+                    "y" : 0.77614155684680919
+                  },
+                  "curveTo" : {
+                    "x" : 0,
+                    "y" : 0.22385844315319081
+                  },
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0.5
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.22385842905143294,
+                    "y" : 0
+                  },
+                  "curveTo" : {
+                    "x" : 0.77614157094856717,
+                    "y" : 0
+                  },
+                  "point" : {
+                    "x" : 0.50000158342596379,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 1,
+                    "y" : 0.22385844315319081
+                  },
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0.5
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "fillColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 1,
+          "red" : 1
+        },
+        "lineWidth" : 2,
+        "position.x" : 33.5,
+        "position.y" : 22.5,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 0,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "2462A3E1-0E58-423B-98FD-7777EF0026E9" : {
+      "properties" : {
+        "bounds.size.height" : 109,
+        "bounds.size.width" : 108,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : true,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 1
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "lineWidth" : 2,
+        "position.x" : 188,
+        "position.y" : 311.5,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 0,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "6332CDD6-9FE4-4204-B8BF-DEC183D9819F" : {
+      "properties" : {
+        "alignmentMode" : "center",
+        "bounds.size.height" : 43.020000000000003,
+        "bounds.size.width" : 274.63,
+        "font" : {
+          "name" : "BasierCircle-Bold",
+          "size" : 40
+        },
+        "fontSize" : 32,
+        "foregroundColor" : {
+          "alpha" : 1,
+          "blue" : 0.47100000000000003,
+          "green" : 0.0040000000000000001,
+          "red" : 0.99199999999999999
+        },
+        "opacity" : 0,
+        "position.x" : 188,
+        "position.y" : 524.32000000000005,
+        "string" : "The Interface"
+      }
+    },
+    "66156D6D-D566-471D-9496-46CEAC2E813B" : {
+      "properties" : {
+        "bounds.size.height" : 12,
+        "bounds.size.width" : 12,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : false,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 1,
+                    "y" : 0.77614041261602051
+                  },
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0.5
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.77613856446974605,
+                    "y" : 1
+                  },
+                  "curveTo" : {
+                    "x" : 0.2238614355302542,
+                    "y" : 1
+                  },
+                  "point" : {
+                    "x" : 0.5,
+                    "y" : 1
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0,
+                    "y" : 0.77614041261602051
+                  },
+                  "curveTo" : {
+                    "x" : 0,
+                    "y" : 0.22385225589818039
+                  },
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0.5
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.2238614355302542,
+                    "y" : 0
+                  },
+                  "curveTo" : {
+                    "x" : 0.77613856446974605,
+                    "y" : 0
+                  },
+                  "point" : {
+                    "x" : 0.5,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 1,
+                    "y" : 0.22385225589818039
+                  },
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0.5
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "fillColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 1,
+          "red" : 1
+        },
+        "lineWidth" : 2,
+        "position.x" : 22,
+        "position.y" : 17,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 0,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "99394F3C-9E3F-4EAD-8F09-AAA439ACFB3E" : {
+      "properties" : {
+        "alignmentMode" : "center",
+        "bounds.size.height" : 43.020000000000003,
+        "bounds.size.width" : 274.63,
+        "font" : {
+          "name" : "BasierCircle-Bold",
+          "size" : 40
+        },
+        "fontSize" : 32,
+        "foregroundColor" : {
+          "alpha" : 1,
+          "blue" : 0.47100000000000003,
+          "green" : 0.0040000000000000001,
+          "red" : 0.99199999999999999
+        },
+        "opacity" : 0,
+        "position.x" : 198,
+        "position.y" : 534.32000000000005,
+        "string" : "Layers Panel"
+      }
+    },
+    "574785D4-E500-4540-B597-8725B992CB91" : {
+      "properties" : {
+        "bounds.size.height" : 247,
+        "bounds.size.width" : 350,
+        "opacity" : 0,
+        "position.x" : 188,
+        "position.y" : 305
+      }
+    },
+    "09532673-E7F5-4B52-BBB3-0F115F2C5E25" : {
+      "properties" : {
+        "alignmentMode" : "center",
+        "bounds.size.height" : 24.789999999999999,
+        "bounds.size.width" : 122.17,
+        "font" : {
+          "name" : "BasierCircle-Medium",
+          "size" : 18
+        },
+        "fontSize" : 18,
+        "foregroundColor" : {
+          "alpha" : 1,
+          "blue" : 0.47100000000000003,
+          "green" : 0.0040000000000000001,
+          "red" : 0.99199999999999999
+        },
+        "opacity" : 0,
+        "position.x" : 188,
+        "position.y" : 576.58000000000004,
+        "string" : "please swipe"
+      }
+    },
+    "A0FF5DF4-A7FE-461B-A2B8-C03683575727" : {
+      "properties" : {
+        "bounds.size.height" : 89,
+        "bounds.size.width" : 142,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : false,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.96478622935436764,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.60114905971749921,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.39878497481458197,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 0.015727307586794564,
+                    "y" : 0
+                  },
+                  "point" : {
+                    "x" : 0.035147805177713445,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0,
+                    "y" : 0.024714371796071111
+                  },
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0.055232335235005793
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 0,
+                    "y" : 0.99386060453911373
+                  },
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0.94466400461268618
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.03785235662688765,
+                    "y" : 1.0185035475149651
+                  },
+                  "point" : {
+                    "x" : 0.060000132990083305,
+                    "y" : 0.98371771206789371
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.36363716963686837,
+                    "y" : 0.50657319299923786
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 0.36363716963686837,
+                    "y" : 0.99386060453911373
+                  },
+                  "point" : {
+                    "x" : 0.36363716963686837,
+                    "y" : 0.94466400461268618
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.40148952626375622,
+                    "y" : 1.0185035475149651
+                  },
+                  "point" : {
+                    "x" : 0.42363730262695165,
+                    "y" : 0.98371771206789371
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 1.0117749698683818,
+                    "y" : 0.059482350038087377
+                  },
+                  "point" : {
+                    "x" : 0.98963855716673754,
+                    "y" : 0.094268185485158432
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.99609311692779179,
+                    "y" : 0
+                  },
+                  "point" : {
+                    "x" : 0.96478622935436764,
+                    "y" : 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "fillColor" : {
+          "alpha" : 1,
+          "blue" : 0,
+          "green" : 0,
+          "red" : 0
+        },
+        "position.x" : 200,
+        "position.y" : 311.5
+      }
+    },
+    "D2475EFA-F646-465D-9FDF-E782942470EA" : {
+      "properties" : {
+        "bounds.size.height" : 2,
+        "bounds.size.width" : 275,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : false,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.0012796336206897241,
+                    "y" : 0.75
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.9980132004310347,
+                    "y" : 0.75
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "lineCap" : "round",
+        "lineJoin" : "round",
+        "lineWidth" : 6,
+        "operation" : 0,
+        "position.x" : 170.5,
+        "position.y" : 8,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 0,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "D788100B-FD9B-441D-AFDE-DB4FC6A8E78F" : {
+      "properties" : {
+        "bounds.size.height" : 1,
+        "bounds.size.width" : 179,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : false,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.002264242256636996,
+                    "y" : 0.5
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.99695796460176878,
+                    "y" : 0.50000000000000022
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "lineCap" : "round",
+        "lineJoin" : "round",
+        "lineWidth" : 6,
+        "operation" : 0,
+        "position.x" : 170.5,
+        "position.y" : 16.5,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 0,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "E91BF85F-4A0F-4DC4-909E-B7EB5557EA82" : {
+      "properties" : {
+        "bounds.size.height" : 181,
+        "bounds.size.width" : 48,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : true,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 10,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 1
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "lineWidth" : 10,
+        "position.x" : 339,
+        "position.y" : 311.5,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 0,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    }
+  },
+  "id" : "6593E26F-BCB8-4FEF-9110-74BFAE69285B",
+  "name" : "base",
+  "rootLayer" : {
+    "aspectRatioUnlocked" : true,
+    "id" : "6B3E5E50-B58C-4E57-836A-54D87E74EB51",
+    "isClippingMask" : false,
+    "locked" : false,
+    "masksToBounds" : true,
+    "name" : "base",
+    "resizingConstraint" : 0,
+    "sublayers" : [
+      {
+        "aspectRatioUnlocked" : true,
+        "id" : "574785D4-E500-4540-B597-8725B992CB91",
+        "isClippingMask" : false,
+        "locked" : false,
+        "masksToBounds" : false,
+        "name" : "app",
+        "resizingConstraint" : 0,
+        "sublayers" : [
+          {
+            "aspectRatioUnlocked" : true,
+            "id" : "9A58A3F6-BA3C-4D9F-B3C1-F3499BD35CFB",
+            "isClippingMask" : false,
+            "locked" : false,
+            "masksToBounds" : false,
+            "name" : "layers",
+            "resizingConstraint" : 0,
+            "type" : "shape",
+            "visible" : true
+          },
+          {
+            "aspectRatioUnlocked" : true,
+            "id" : "E91BF85F-4A0F-4DC4-909E-B7EB5557EA82",
+            "isClippingMask" : false,
+            "locked" : false,
+            "masksToBounds" : false,
+            "name" : "properties",
+            "resizingConstraint" : 0,
+            "type" : "shape",
+            "visible" : true
+          },
+          {
+            "aspectRatioUnlocked" : true,
+            "id" : "6C409C33-D4E2-408C-B578-90198DCDF5D3",
+            "isClippingMask" : false,
+            "locked" : false,
+            "masksToBounds" : false,
+            "name" : "timeline",
+            "resizingConstraint" : 0,
+            "type" : "shape",
+            "visible" : true
+          },
+          {
+            "aspectRatioUnlocked" : true,
+            "id" : "12A9A468-4B03-4951-A88C-3C8EF7850612",
+            "isClippingMask" : false,
+            "locked" : false,
+            "masksToBounds" : false,
+            "name" : "tracks",
+            "resizingConstraint" : 0,
+            "sublayers" : [
+              {
+                "aspectRatioUnlocked" : true,
+                "id" : "37A9BDFF-F0A0-4AE3-A7A4-1503CDE9C602",
+                "isClippingMask" : false,
+                "locked" : false,
+                "masksToBounds" : false,
+                "name" : "track4",
+                "resizingConstraint" : 0,
+                "type" : "shape",
+                "visible" : true
+              },
+              {
+                "aspectRatioUnlocked" : true,
+                "id" : "D788100B-FD9B-441D-AFDE-DB4FC6A8E78F",
+                "isClippingMask" : false,
+                "locked" : false,
+                "masksToBounds" : false,
+                "name" : "track3",
+                "resizingConstraint" : 0,
+                "type" : "shape",
+                "visible" : true
+              },
+              {
+                "aspectRatioUnlocked" : true,
+                "id" : "D2475EFA-F646-465D-9FDF-E782942470EA",
+                "isClippingMask" : false,
+                "locked" : false,
+                "masksToBounds" : false,
+                "name" : "track2",
+                "resizingConstraint" : 0,
+                "type" : "shape",
+                "visible" : true
+              },
+              {
+                "aspectRatioUnlocked" : true,
+                "id" : "2CE6024C-1411-4157-BEA6-EB05934B80AC",
+                "isClippingMask" : false,
+                "locked" : false,
+                "masksToBounds" : false,
+                "name" : "track1",
+                "resizingConstraint" : 0,
+                "type" : "shape",
+                "visible" : true
+              }
+            ],
+            "type" : "group",
+            "visible" : true
+          },
+          {
+            "aspectRatioUnlocked" : true,
+            "id" : "23E21613-85FF-421F-BDC7-9B486D92324B",
+            "isClippingMask" : false,
+            "locked" : false,
+            "masksToBounds" : false,
+            "name" : "stage",
+            "resizingConstraint" : 0,
+            "type" : "shape",
+            "visible" : true
+          },
+          {
+            "aspectRatioUnlocked" : true,
+            "id" : "2462A3E1-0E58-423B-98FD-7777EF0026E9",
+            "isClippingMask" : false,
+            "locked" : false,
+            "masksToBounds" : false,
+            "name" : "scene",
+            "resizingConstraint" : 0,
+            "type" : "shape",
+            "visible" : true
+          },
+          {
+            "aspectRatioUnlocked" : true,
+            "id" : "8FA98086-BAE7-4727-A883-FB75D9041EFC",
+            "isClippingMask" : false,
+            "locked" : false,
+            "masksToBounds" : false,
+            "name" : "shape",
+            "resizingConstraint" : 0,
+            "sublayers" : [
+              {
+                "aspectRatioUnlocked" : true,
+                "id" : "816D7397-36C3-48D2-BB35-3DEE02CF413B",
+                "isClippingMask" : false,
+                "locked" : false,
+                "masksToBounds" : false,
+                "name" : "right",
+                "resizingConstraint" : 0,
+                "type" : "shape",
+                "visible" : true
+              },
+              {
+                "aspectRatioUnlocked" : true,
+                "id" : "9EFEE69E-EA30-4225-804D-796335B2FC12",
+                "isClippingMask" : false,
+                "locked" : false,
+                "masksToBounds" : false,
+                "name" : "left",
+                "resizingConstraint" : 0,
+                "type" : "shape",
+                "visible" : true
+              },
+              {
+                "aspectRatioUnlocked" : true,
+                "id" : "66156D6D-D566-471D-9496-46CEAC2E813B",
+                "isClippingMask" : false,
+                "locked" : false,
+                "masksToBounds" : false,
+                "name" : "middle",
+                "resizingConstraint" : 0,
+                "type" : "shape",
+                "visible" : true
+              }
+            ],
+            "type" : "group",
+            "visible" : true
+          }
+        ],
+        "type" : "group",
+        "visible" : true
+      },
+      {
+        "aspectRatioUnlocked" : true,
+        "id" : "A0FF5DF4-A7FE-461B-A2B8-C03683575727",
+        "isClippingMask" : false,
+        "locked" : false,
+        "masksToBounds" : false,
+        "name" : "flowLogo",
+        "resizingConstraint" : 0,
+        "type" : "shape",
+        "visible" : true
+      },
+      {
+        "aspectRatioUnlocked" : true,
+        "id" : "5FD53F0A-5623-4270-9BE5-00F13C04B366",
+        "isClippingMask" : false,
+        "locked" : false,
+        "masksToBounds" : false,
+        "name" : "WelcomLabel",
+        "resizingConstraint" : 16,
+        "type" : "text",
+        "visible" : true
+      },
+      {
+        "aspectRatioUnlocked" : true,
+        "id" : "09532673-E7F5-4B52-BBB3-0F115F2C5E25",
+        "isClippingMask" : false,
+        "locked" : false,
+        "masksToBounds" : false,
+        "name" : "SwipeLabel",
+        "resizingConstraint" : 16,
+        "type" : "text",
+        "visible" : true
+      },
+      {
+        "aspectRatioUnlocked" : true,
+        "id" : "6332CDD6-9FE4-4204-B8BF-DEC183D9819F",
+        "isClippingMask" : false,
+        "locked" : false,
+        "masksToBounds" : false,
+        "name" : "interfaceLabel",
+        "resizingConstraint" : 16,
+        "type" : "text",
+        "visible" : true
+      },
+      {
+        "aspectRatioUnlocked" : true,
+        "id" : "99394F3C-9E3F-4EAD-8F09-AAA439ACFB3E",
+        "isClippingMask" : false,
+        "locked" : false,
+        "masksToBounds" : false,
+        "name" : "layersLabel",
+        "resizingConstraint" : 16,
+        "type" : "text",
+        "visible" : true
+      },
+      {
+        "aspectRatioUnlocked" : true,
+        "id" : "30C06D7A-7E20-4289-8124-5761DEA21BE6",
+        "isClippingMask" : false,
+        "locked" : false,
+        "masksToBounds" : false,
+        "name" : "propertiesLabel",
+        "resizingConstraint" : 16,
+        "type" : "text",
+        "visible" : true
+      },
+      {
+        "aspectRatioUnlocked" : true,
+        "id" : "1E8CE275-38A0-41D4-B557-7D985B0574A0",
+        "isClippingMask" : false,
+        "locked" : false,
+        "masksToBounds" : false,
+        "name" : "stageLabel",
+        "resizingConstraint" : 16,
+        "type" : "text",
+        "visible" : true
+      },
+      {
+        "aspectRatioUnlocked" : true,
+        "id" : "531DFD6E-C292-47AC-8B39-B85EA3FEE89B",
+        "isClippingMask" : false,
+        "locked" : false,
+        "masksToBounds" : false,
+        "name" : "timelineLabel",
+        "resizingConstraint" : 16,
+        "type" : "text",
+        "visible" : true
+      }
+    ],
+    "type" : "group",
+    "visible" : true
+  }
+}

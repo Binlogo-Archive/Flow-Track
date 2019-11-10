@@ -1,0 +1,3869 @@
+{
+  "duration" : 6,
+  "id" : "6F1BF27B-0FFD-4F49-9ADB-619F3B4B40E1",
+  "initialConfiguration" : {
+    "1E8CE275-38A0-41D4-B557-7D985B0574A0" : {
+      "properties" : {
+        "alignmentMode" : "center",
+        "bounds.size.height" : 43.020000000000003,
+        "bounds.size.width" : 274.63,
+        "font" : {
+          "name" : "BasierCircle-Bold",
+          "size" : 40
+        },
+        "fontSize" : 32,
+        "foregroundColor" : {
+          "alpha" : 1,
+          "blue" : 0.47100000000000003,
+          "green" : 0.0040000000000000001,
+          "red" : 0.99199999999999999
+        },
+        "opacity" : 0,
+        "position.x" : 198,
+        "position.y" : 534.32000000000005,
+        "string" : "The Stage"
+      }
+    },
+    "2CE6024C-1411-4157-BEA6-EB05934B80AC" : {
+      "properties" : {
+        "bounds.size.height" : 1,
+        "bounds.size.width" : 136,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : false,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0.49999999999999939
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.99492872807017541,
+                    "y" : 0.5
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "lineCap" : "round",
+        "lineJoin" : "round",
+        "lineWidth" : 6,
+        "operation" : 0,
+        "position.x" : 68,
+        "position.y" : 0.5,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "5FD53F0A-5623-4270-9BE5-00F13C04B366" : {
+      "properties" : {
+        "alignmentMode" : "center",
+        "bounds.size.height" : 43.020000000000003,
+        "bounds.size.width" : 274.63,
+        "font" : {
+          "name" : "BasierCircle-Bold",
+          "size" : 40
+        },
+        "fontSize" : 32,
+        "foregroundColor" : {
+          "alpha" : 1,
+          "blue" : 0.47100000000000003,
+          "green" : 0.0040000000000000001,
+          "red" : 0.99199999999999999
+        },
+        "opacity" : 0,
+        "position.x" : 188,
+        "position.y" : 524.32000000000005,
+        "string" : "Welcome to Flow"
+      }
+    },
+    "6B3E5E50-B58C-4E57-836A-54D87E74EB51" : {
+      "properties" : {
+        "anchorPoint.x" : 0,
+        "anchorPoint.y" : 0,
+        "backgroundColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 1,
+          "red" : 1
+        },
+        "bounds.size.height" : 667,
+        "bounds.size.width" : 375,
+        "position.x" : 187.5,
+        "position.y" : 406
+      }
+    },
+    "6C409C33-D4E2-408C-B578-90198DCDF5D3" : {
+      "properties" : {
+        "bounds.size.height" : 65,
+        "bounds.size.width" : 350,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : true,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 10,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 1
+                  }
+                },
+                {
+                  "cornerRadius" : 10,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "fillColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 1,
+          "red" : 1
+        },
+        "lineWidth" : 10,
+        "position.x" : 175,
+        "position.y" : 214.5,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "8FA98086-BAE7-4727-A883-FB75D9041EFC" : {
+      "properties" : {
+        "bounds.size.height" : 37,
+        "bounds.size.width" : 48,
+        "position.x" : 158,
+        "position.y" : 76.5
+      }
+    },
+    "9A58A3F6-BA3C-4D9F-B3C1-F3499BD35CFB" : {
+      "properties" : {
+        "bounds.size.height" : 181,
+        "bounds.size.width" : 48,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : true,
+              "points" : [
+                {
+                  "cornerRadius" : 10,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 1
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "lineWidth" : 10,
+        "position.x" : 24,
+        "position.y" : 90.5,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "9EFEE69E-EA30-4225-804D-796335B2FC12" : {
+      "properties" : {
+        "bounds.size.height" : 24,
+        "bounds.size.width" : 24,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : false,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 0,
+                    "y" : 0.22385816482296106
+                  },
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0.49999803791532427
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.22385615782116322,
+                    "y" : 0
+                  },
+                  "curveTo" : {
+                    "x" : 0.7761438421788367,
+                    "y" : 0
+                  },
+                  "point" : {
+                    "x" : 0.5,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 1,
+                    "y" : 0.22385816482296106
+                  },
+                  "curveTo" : {
+                    "x" : 1,
+                    "y" : 0.77614183517703883
+                  },
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0.49999803791532427
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.7761438421788367,
+                    "y" : 1
+                  },
+                  "curveTo" : {
+                    "x" : 0.22385615782116322,
+                    "y" : 1
+                  },
+                  "point" : {
+                    "x" : 0.5,
+                    "y" : 1
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0,
+                    "y" : 0.77614183517703883
+                  },
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0.49999803791532427
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "fillColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 1,
+          "red" : 1
+        },
+        "lineWidth" : 2,
+        "position.x" : 12,
+        "position.y" : 12,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "12A9A468-4B03-4951-A88C-3C8EF7850612" : {
+      "properties" : {
+        "bounds.size.height" : 25,
+        "bounds.size.width" : 308,
+        "position.x" : 176,
+        "position.y" : 214.5
+      }
+    },
+    "23E21613-85FF-421F-BDC7-9B486D92324B" : {
+      "properties" : {
+        "bounds.size.height" : 181,
+        "bounds.size.width" : 256,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : true,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 1
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "lineWidth" : 10,
+        "position.x" : 175,
+        "position.y" : 90.5,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "30C06D7A-7E20-4289-8124-5761DEA21BE6" : {
+      "properties" : {
+        "alignmentMode" : "center",
+        "bounds.size.height" : 43.020000000000003,
+        "bounds.size.width" : 274.63,
+        "font" : {
+          "name" : "BasierCircle-Bold",
+          "size" : 40
+        },
+        "fontSize" : 32,
+        "foregroundColor" : {
+          "alpha" : 1,
+          "blue" : 0.47100000000000003,
+          "green" : 0.0040000000000000001,
+          "red" : 0.99199999999999999
+        },
+        "opacity" : 0,
+        "position.x" : 198,
+        "position.y" : 534.32000000000005,
+        "string" : "Properties Panel"
+      }
+    },
+    "37A9BDFF-F0A0-4AE3-A7A4-1503CDE9C602" : {
+      "properties" : {
+        "bounds.size.height" : 2,
+        "bounds.size.width" : 124,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : false,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.0014430732484079813,
+                    "y" : 0.75
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.99559613853503137,
+                    "y" : 0.74999999999999989
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "lineCap" : "round",
+        "lineJoin" : "round",
+        "lineWidth" : 6,
+        "operation" : 0,
+        "position.x" : 246,
+        "position.y" : 24,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "531DFD6E-C292-47AC-8B39-B85EA3FEE89B" : {
+      "properties" : {
+        "alignmentMode" : "center",
+        "bounds.size.height" : 43.020000000000003,
+        "bounds.size.width" : 274.63,
+        "font" : {
+          "name" : "BasierCircle-Bold",
+          "size" : 40
+        },
+        "fontSize" : 32,
+        "foregroundColor" : {
+          "alpha" : 1,
+          "blue" : 0.47100000000000003,
+          "green" : 0.0040000000000000001,
+          "red" : 0.99199999999999999
+        },
+        "opacity" : 0,
+        "position.x" : 198,
+        "position.y" : 534.32000000000005,
+        "string" : "The Timeline"
+      }
+    },
+    "816D7397-36C3-48D2-BB35-3DEE02CF413B" : {
+      "properties" : {
+        "bounds.size.height" : 29,
+        "bounds.size.width" : 29,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : false,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 1,
+                    "y" : 0.77614155684680919
+                  },
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0.5
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.77614157094856717,
+                    "y" : 1
+                  },
+                  "curveTo" : {
+                    "x" : 0.22385842905143294,
+                    "y" : 1
+                  },
+                  "point" : {
+                    "x" : 0.50000158342596379,
+                    "y" : 1
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0,
+                    "y" : 0.77614155684680919
+                  },
+                  "curveTo" : {
+                    "x" : 0,
+                    "y" : 0.22385844315319081
+                  },
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0.5
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.22385842905143294,
+                    "y" : 0
+                  },
+                  "curveTo" : {
+                    "x" : 0.77614157094856717,
+                    "y" : 0
+                  },
+                  "point" : {
+                    "x" : 0.50000158342596379,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 1,
+                    "y" : 0.22385844315319081
+                  },
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0.5
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "fillColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 1,
+          "red" : 1
+        },
+        "lineWidth" : 2,
+        "position.x" : 33.5,
+        "position.y" : 22.5,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "2462A3E1-0E58-423B-98FD-7777EF0026E9" : {
+      "properties" : {
+        "bounds.size.height" : 109,
+        "bounds.size.width" : 108,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : true,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 1
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "lineWidth" : 2,
+        "position.x" : 175,
+        "position.y" : 90.5,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "6332CDD6-9FE4-4204-B8BF-DEC183D9819F" : {
+      "properties" : {
+        "alignmentMode" : "center",
+        "bounds.size.height" : 43.020000000000003,
+        "bounds.size.width" : 274.63,
+        "font" : {
+          "name" : "BasierCircle-Bold",
+          "size" : 40
+        },
+        "fontSize" : 32,
+        "foregroundColor" : {
+          "alpha" : 1,
+          "blue" : 0.47100000000000003,
+          "green" : 0.0040000000000000001,
+          "red" : 0.99199999999999999
+        },
+        "opacity" : 0,
+        "position.x" : 188,
+        "position.y" : 524.32000000000005,
+        "string" : "The Interface"
+      }
+    },
+    "66156D6D-D566-471D-9496-46CEAC2E813B" : {
+      "properties" : {
+        "bounds.size.height" : 12,
+        "bounds.size.width" : 12,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : false,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 1,
+                    "y" : 0.77614041261602051
+                  },
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0.5
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.77613856446974605,
+                    "y" : 1
+                  },
+                  "curveTo" : {
+                    "x" : 0.2238614355302542,
+                    "y" : 1
+                  },
+                  "point" : {
+                    "x" : 0.5,
+                    "y" : 1
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0,
+                    "y" : 0.77614041261602051
+                  },
+                  "curveTo" : {
+                    "x" : 0,
+                    "y" : 0.22385225589818039
+                  },
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0.5
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.2238614355302542,
+                    "y" : 0
+                  },
+                  "curveTo" : {
+                    "x" : 0.77613856446974605,
+                    "y" : 0
+                  },
+                  "point" : {
+                    "x" : 0.5,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 1,
+                    "y" : 0.22385225589818039
+                  },
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0.5
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "fillColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 1,
+          "red" : 1
+        },
+        "lineWidth" : 2,
+        "position.x" : 22,
+        "position.y" : 17,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "99394F3C-9E3F-4EAD-8F09-AAA439ACFB3E" : {
+      "properties" : {
+        "alignmentMode" : "center",
+        "bounds.size.height" : 43.020000000000003,
+        "bounds.size.width" : 274.63,
+        "font" : {
+          "name" : "BasierCircle-Bold",
+          "size" : 40
+        },
+        "fontSize" : 32,
+        "foregroundColor" : {
+          "alpha" : 1,
+          "blue" : 0.47100000000000003,
+          "green" : 0.0040000000000000001,
+          "red" : 0.99199999999999999
+        },
+        "opacity" : 0,
+        "position.x" : 198,
+        "position.y" : 534.32000000000005,
+        "string" : "Layers Panel"
+      }
+    },
+    "574785D4-E500-4540-B597-8725B992CB91" : {
+      "properties" : {
+        "bounds.size.height" : 247,
+        "bounds.size.width" : 350,
+        "opacity" : 0,
+        "position.x" : 188,
+        "position.y" : 305
+      }
+    },
+    "09532673-E7F5-4B52-BBB3-0F115F2C5E25" : {
+      "properties" : {
+        "alignmentMode" : "center",
+        "bounds.size.height" : 24.789999999999999,
+        "bounds.size.width" : 122.17,
+        "font" : {
+          "name" : "BasierCircle-Medium",
+          "size" : 18
+        },
+        "fontSize" : 18,
+        "foregroundColor" : {
+          "alpha" : 1,
+          "blue" : 0.47100000000000003,
+          "green" : 0.0040000000000000001,
+          "red" : 0.99199999999999999
+        },
+        "opacity" : 0,
+        "position.x" : 188,
+        "position.y" : 576.58000000000004,
+        "string" : "please swipe"
+      }
+    },
+    "A0FF5DF4-A7FE-461B-A2B8-C03683575727" : {
+      "properties" : {
+        "bounds.size.height" : 89,
+        "bounds.size.width" : 142,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : false,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.96478622935436764,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.60114905971749921,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.39878497481458197,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 0.015727307586794564,
+                    "y" : 0
+                  },
+                  "point" : {
+                    "x" : 0.035147805177713445,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0,
+                    "y" : 0.024714371796071111
+                  },
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0.055232335235005793
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 0,
+                    "y" : 0.99386060453911373
+                  },
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0.94466400461268618
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.03785235662688765,
+                    "y" : 1.0185035475149651
+                  },
+                  "point" : {
+                    "x" : 0.060000132990083305,
+                    "y" : 0.98371771206789371
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.36363716963686837,
+                    "y" : 0.50657319299923786
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 0.36363716963686837,
+                    "y" : 0.99386060453911373
+                  },
+                  "point" : {
+                    "x" : 0.36363716963686837,
+                    "y" : 0.94466400461268618
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.40148952626375622,
+                    "y" : 1.0185035475149651
+                  },
+                  "point" : {
+                    "x" : 0.42363730262695165,
+                    "y" : 0.98371771206789371
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveTo" : {
+                    "x" : 1.0117749698683818,
+                    "y" : 0.059482350038087377
+                  },
+                  "point" : {
+                    "x" : 0.98963855716673754,
+                    "y" : 0.094268185485158432
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "curveFrom" : {
+                    "x" : 0.99609311692779179,
+                    "y" : 0
+                  },
+                  "point" : {
+                    "x" : 0.96478622935436764,
+                    "y" : 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "fillColor" : {
+          "alpha" : 1,
+          "blue" : 0.47100000000000003,
+          "green" : 0.0040000000000000001,
+          "red" : 0.99199999999999999
+        },
+        "position.x" : 198,
+        "position.y" : 334
+      }
+    },
+    "D2475EFA-F646-465D-9FDF-E782942470EA" : {
+      "properties" : {
+        "bounds.size.height" : 2,
+        "bounds.size.width" : 275,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : false,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.0012796336206897241,
+                    "y" : 0.75
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.9980132004310347,
+                    "y" : 0.75
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "lineCap" : "round",
+        "lineJoin" : "round",
+        "lineWidth" : 6,
+        "operation" : 0,
+        "position.x" : 170.5,
+        "position.y" : 8,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "D788100B-FD9B-441D-AFDE-DB4FC6A8E78F" : {
+      "properties" : {
+        "bounds.size.height" : 1,
+        "bounds.size.width" : 179,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : false,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.002264242256636996,
+                    "y" : 0.5
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0.99695796460176878,
+                    "y" : 0.50000000000000022
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "lineCap" : "round",
+        "lineJoin" : "round",
+        "lineWidth" : 6,
+        "operation" : 0,
+        "position.x" : 170.5,
+        "position.y" : 16.5,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    },
+    "E91BF85F-4A0F-4DC4-909E-B7EB5557EA82" : {
+      "properties" : {
+        "bounds.size.height" : 181,
+        "bounds.size.width" : 48,
+        "combinedPath" : {
+          "normalized" : true,
+          "paths" : [
+            {
+              "closed" : true,
+              "points" : [
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 10,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 0
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 1,
+                    "y" : 1
+                  }
+                },
+                {
+                  "cornerRadius" : 0,
+                  "point" : {
+                    "x" : 0,
+                    "y" : 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "lineWidth" : 10,
+        "position.x" : 326,
+        "position.y" : 90.5,
+        "strokeColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 0,
+          "red" : 0
+        }
+      }
+    }
+  },
+  "name" : "Timeline",
+  "scene" : {
+    "id" : "6F1BF27B-0FFD-4F49-9ADB-619F3B4B40E1",
+    "ref" : "scenes\/6F1BF27B-0FFD-4F49-9ADB-619F3B4B40E1"
+  },
+  "soundTracks" : [
+
+  ],
+  "tracks" : {
+    "1E8CE275-38A0-41D4-B557-7D985B0574A0" : {
+      "opacity" : {
+        "initalValue" : 0,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.5,
+            "value" : 0
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5.25,
+            "value" : 0
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 534.32000000000005,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.5,
+            "value" : 534.32000000000005
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5,
+            "value" : 519.41000000000008
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5.25,
+            "value" : 534.32000000000005
+          }
+        ]
+      }
+    },
+    "2CE6024C-1411-4157-BEA6-EB05934B80AC" : {
+      "bounds.size.height" : {
+        "initalValue" : 1,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 1.98
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 1.98
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 1
+          }
+        ]
+      },
+      "bounds.size.width" : {
+        "initalValue" : 136,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 136
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 268.64999999999998
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 268.64999999999998
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 136
+          }
+        ]
+      },
+      "position.x" : {
+        "initalValue" : 68,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 68
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 134.31999999999999
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 134.31999999999999
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 68
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 0.5,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 0.5
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 0.98999999999999999
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 0.98999999999999999
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 0.5
+          }
+        ]
+      }
+    },
+    "5FD53F0A-5623-4270-9BE5-00F13C04B366" : {
+      "opacity" : {
+        "initalValue" : 0,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 0,
+            "value" : 0
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 0.5,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 1,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 1.25,
+            "value" : 0
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 524.32000000000005,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 0,
+            "value" : 524.32000000000005
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 0.5,
+            "value" : 509.41000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 1,
+            "value" : 509.41000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 1.25,
+            "value" : 524.32000000000005
+          }
+        ]
+      }
+    },
+    "6C409C33-D4E2-408C-B578-90198DCDF5D3" : {
+      "bounds.size.height" : {
+        "initalValue" : 65,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 65
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 128.40000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 128.40000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 65
+          }
+        ]
+      },
+      "bounds.size.width" : {
+        "initalValue" : 350,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 350
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 691.37
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 691.37
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 350
+          }
+        ]
+      },
+      "opacity" : {
+        "initalValue" : 1,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2.5,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2.75,
+            "value" : 0.050000000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 0.050000000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3.25,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3.5,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3.75,
+            "value" : 0.050000000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4,
+            "value" : 0.050000000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5,
+            "value" : 0.050000000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5.25,
+            "value" : 0.050000000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5.75,
+            "value" : 1
+          }
+        ]
+      },
+      "position.x" : {
+        "initalValue" : 175,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 175
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 345.69
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 345.69
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 175
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 214.5,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 214.5
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 423.71000000000004
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 423.71000000000004
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 214.5
+          }
+        ]
+      }
+    },
+    "8FA98086-BAE7-4727-A883-FB75D9041EFC" : {
+      "bounds.size.height" : {
+        "initalValue" : 37,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 37
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 73.090000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 73.090000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 37
+          }
+        ]
+      },
+      "bounds.size.width" : {
+        "initalValue" : 48,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 48
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 94.820000000000007
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 94.820000000000007
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 48
+          }
+        ]
+      },
+      "opacity" : {
+        "initalValue" : 1,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5.5,
+            "value" : 0.050000000000000003
+          }
+        ]
+      },
+      "position.x" : {
+        "initalValue" : 158,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 158
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 312.10000000000002
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 312.10000000000002
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 158
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 76.5,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 76.5
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 151.11000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 151.11000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 76.5
+          }
+        ]
+      }
+    },
+    "9A58A3F6-BA3C-4D9F-B3C1-F3499BD35CFB" : {
+      "bounds.size.height" : {
+        "initalValue" : 181,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 181
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 357.54000000000002
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 357.54000000000002
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 181
+          }
+        ]
+      },
+      "bounds.size.width" : {
+        "initalValue" : 48,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 48
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 94.820000000000007
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 94.820000000000007
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 48
+          }
+        ]
+      },
+      "opacity" : {
+        "initalValue" : 1,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5,
+            "value" : 0.050000000000000003
+          }
+        ]
+      },
+      "position.x" : {
+        "initalValue" : 24,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 24
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 47.410000000000004
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 47.410000000000004
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 24
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 90.5,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 90.5
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 178.77000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 178.77000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 90.5
+          }
+        ]
+      }
+    },
+    "9EFEE69E-EA30-4225-804D-796335B2FC12" : {
+      "bounds.size.height" : {
+        "initalValue" : 24,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 24
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 47.410000000000004
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 47.410000000000004
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 24
+          }
+        ]
+      },
+      "bounds.size.width" : {
+        "initalValue" : 24,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 24
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 47.410000000000004
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 47.410000000000004
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 24
+          }
+        ]
+      },
+      "position.x" : {
+        "initalValue" : 12,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 12
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 23.710000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 23.710000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 12
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 12,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 12
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 23.699999999999999
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 23.699999999999999
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 12
+          }
+        ]
+      }
+    },
+    "12A9A468-4B03-4951-A88C-3C8EF7850612" : {
+      "bounds.size.height" : {
+        "initalValue" : 25,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 25
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 49.380000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 49.380000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 25
+          }
+        ]
+      },
+      "bounds.size.width" : {
+        "initalValue" : 308,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 308
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 608.40999999999997
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 608.40999999999997
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 308
+          }
+        ]
+      },
+      "opacity" : {
+        "initalValue" : 1,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2.5,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2.75,
+            "value" : 0.050000000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 0.050000000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3.25,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3.5,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3.75,
+            "value" : 0.050000000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4,
+            "value" : 0.050000000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5,
+            "value" : 0.050000000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5.25,
+            "value" : 0.050000000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5.75,
+            "value" : 1
+          }
+        ]
+      },
+      "position.x" : {
+        "initalValue" : 176,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 176
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 347.66000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 347.66000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 176
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 214.5,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 214.5
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 423.71000000000004
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 423.71000000000004
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 214.5
+          }
+        ]
+      }
+    },
+    "23E21613-85FF-421F-BDC7-9B486D92324B" : {
+      "bounds.size.height" : {
+        "initalValue" : 181,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 181
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 357.54000000000002
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 357.54000000000002
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 181
+          }
+        ]
+      },
+      "bounds.size.width" : {
+        "initalValue" : 256,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 256
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 505.69
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 505.69
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 256
+          }
+        ]
+      },
+      "opacity" : {
+        "initalValue" : 1,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2.5,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2.75,
+            "value" : 0.050000000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 0.050000000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3.25,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3.5,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3.75,
+            "value" : 0.050000000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4,
+            "value" : 0.050000000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5.5,
+            "value" : 0.050000000000000003
+          }
+        ]
+      },
+      "position.x" : {
+        "initalValue" : 175,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 175
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 345.69
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 345.69
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 175
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 90.5,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 90.5
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 178.77000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 178.77000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 90.5
+          }
+        ]
+      }
+    },
+    "30C06D7A-7E20-4289-8124-5761DEA21BE6" : {
+      "opacity" : {
+        "initalValue" : 0,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3.5,
+            "value" : 0
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 0
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 534.32000000000005,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3.5,
+            "value" : 534.32000000000005
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4,
+            "value" : 519.41000000000008
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 534.32000000000005
+          }
+        ]
+      }
+    },
+    "37A9BDFF-F0A0-4AE3-A7A4-1503CDE9C602" : {
+      "bounds.size.height" : {
+        "initalValue" : 2,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 2
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 3.9500000000000002
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 3.9500000000000002
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 2
+          }
+        ]
+      },
+      "bounds.size.width" : {
+        "initalValue" : 124,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 124
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 244.94
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 244.94
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 124
+          }
+        ]
+      },
+      "position.x" : {
+        "initalValue" : 246,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 246
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 485.94
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 485.94
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 246
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 24,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 24
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 47.399999999999999
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 47.399999999999999
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 24
+          }
+        ]
+      }
+    },
+    "531DFD6E-C292-47AC-8B39-B85EA3FEE89B" : {
+      "opacity" : {
+        "initalValue" : 0,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5.5,
+            "value" : 0
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 6,
+            "value" : 1
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 534.32000000000005,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5.5,
+            "value" : 534.32000000000005
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 6,
+            "value" : 519.41000000000008
+          }
+        ]
+      }
+    },
+    "816D7397-36C3-48D2-BB35-3DEE02CF413B" : {
+      "bounds.size.height" : {
+        "initalValue" : 29,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 29
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 57.289999999999999
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 57.289999999999999
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 29
+          }
+        ]
+      },
+      "bounds.size.width" : {
+        "initalValue" : 29,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 29
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 57.289999999999999
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 57.289999999999999
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 29
+          }
+        ]
+      },
+      "position.x" : {
+        "initalValue" : 33.5,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 33.5
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 66.180000000000007
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 66.180000000000007
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 33.5
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 22.5,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 22.5
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 44.450000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 44.450000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 22.5
+          }
+        ]
+      }
+    },
+    "2462A3E1-0E58-423B-98FD-7777EF0026E9" : {
+      "bounds.size.height" : {
+        "initalValue" : 109,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 109
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 215.31
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 215.31
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 109
+          }
+        ]
+      },
+      "bounds.size.width" : {
+        "initalValue" : 108,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 108
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 213.34
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 213.34
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 108
+          }
+        ]
+      },
+      "opacity" : {
+        "initalValue" : 1,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5.5,
+            "value" : 0.050000000000000003
+          }
+        ]
+      },
+      "position.x" : {
+        "initalValue" : 175,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 175
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 345.69
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 345.69
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 175
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 90.5,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 90.5
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 178.77000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 178.77000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 90.5
+          }
+        ]
+      }
+    },
+    "6332CDD6-9FE4-4204-B8BF-DEC183D9819F" : {
+      "opacity" : {
+        "initalValue" : 0,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 1.5,
+            "value" : 0
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2.25,
+            "value" : 0
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 524.32000000000005,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 1.5,
+            "value" : 524.32000000000005
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 509.41000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2.25,
+            "value" : 524.32000000000005
+          }
+        ]
+      }
+    },
+    "66156D6D-D566-471D-9496-46CEAC2E813B" : {
+      "bounds.size.height" : {
+        "initalValue" : 12,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 12
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 23.699999999999999
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 23.699999999999999
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 12
+          }
+        ]
+      },
+      "bounds.size.width" : {
+        "initalValue" : 12,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 12
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 23.710000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 23.710000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 12
+          }
+        ]
+      },
+      "position.x" : {
+        "initalValue" : 22,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 22
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 43.460000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 43.460000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 22
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 17,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 17
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 33.579999999999998
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 33.579999999999998
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 17
+          }
+        ]
+      }
+    },
+    "99394F3C-9E3F-4EAD-8F09-AAA439ACFB3E" : {
+      "opacity" : {
+        "initalValue" : 0,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2.5,
+            "value" : 0
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3.25,
+            "value" : 0
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 534.32000000000005,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2.5,
+            "value" : 534.32000000000005
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 519.41000000000008
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3.25,
+            "value" : 534.32000000000005
+          }
+        ]
+      }
+    },
+    "574785D4-E500-4540-B597-8725B992CB91" : {
+      "bounds.size.height" : {
+        "initalValue" : 247,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 247
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 487.91000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 487.91000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 247
+          }
+        ]
+      },
+      "bounds.size.width" : {
+        "initalValue" : 350,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 350
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 691.37
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 691.37
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 350
+          }
+        ]
+      },
+      "opacity" : {
+        "initalValue" : 0,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 1.5,
+            "value" : 0
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 1.75,
+            "value" : 1
+          }
+        ]
+      },
+      "position.x" : {
+        "initalValue" : 188,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 188
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 487.94999999999999
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3.25,
+            "value" : 487.94999999999999
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3.4900000000000002,
+            "value" : -108.60000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : -108.60000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 188
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 305,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 1.5,
+            "value" : 305
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 1.75,
+            "value" : 334
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 334
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 305
+          }
+        ]
+      }
+    },
+    "09532673-E7F5-4B52-BBB3-0F115F2C5E25" : {
+      "opacity" : {
+        "initalValue" : 0,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 0.25,
+            "value" : 0
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 0.75,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 1,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 1.25,
+            "value" : 0
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 576.58000000000004,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 0.25,
+            "value" : 576.58000000000004
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 0.75,
+            "value" : 548.40999999999997
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 1,
+            "value" : 548.40999999999997
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 1.25,
+            "value" : 576.58000000000004
+          }
+        ]
+      }
+    },
+    "A0FF5DF4-A7FE-461B-A2B8-C03683575727" : {
+      "opacity" : {
+        "initalValue" : 1,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 1.25,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 1.5,
+            "value" : 0
+          }
+        ]
+      }
+    },
+    "D2475EFA-F646-465D-9FDF-E782942470EA" : {
+      "bounds.size.height" : {
+        "initalValue" : 2,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 2
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 3.9500000000000002
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 3.9500000000000002
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 2
+          }
+        ]
+      },
+      "bounds.size.width" : {
+        "initalValue" : 275,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 275
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 543.22000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 543.22000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 275
+          }
+        ]
+      },
+      "position.x" : {
+        "initalValue" : 170.5,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 170.5
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 336.80000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 336.80000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 170.5
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 8,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 8
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 15.800000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 15.800000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 8
+          }
+        ]
+      }
+    },
+    "D788100B-FD9B-441D-AFDE-DB4FC6A8E78F" : {
+      "bounds.size.height" : {
+        "initalValue" : 1,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 1.98
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 1.98
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 1
+          }
+        ]
+      },
+      "bounds.size.width" : {
+        "initalValue" : 179,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 179
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 353.59000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 353.59000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 179
+          }
+        ]
+      },
+      "position.x" : {
+        "initalValue" : 170.5,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 170.5
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 336.80000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 336.80000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 170.5
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 16.5,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 16.5
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 32.590000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 32.590000000000003
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 16.5
+          }
+        ]
+      }
+    },
+    "E91BF85F-4A0F-4DC4-909E-B7EB5557EA82" : {
+      "bounds.size.height" : {
+        "initalValue" : 181,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 181
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 357.54000000000002
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 357.54000000000002
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 181
+          }
+        ]
+      },
+      "bounds.size.width" : {
+        "initalValue" : 48,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 48
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 94.820000000000007
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 94.820000000000007
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 48
+          }
+        ]
+      },
+      "opacity" : {
+        "initalValue" : 1,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 1
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 5,
+            "value" : 0.050000000000000003
+          }
+        ]
+      },
+      "position.x" : {
+        "initalValue" : 326,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 326
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 643.96000000000004
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 643.96000000000004
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 326
+          }
+        ]
+      },
+      "position.y" : {
+        "initalValue" : 90.5,
+        "keyvalues" : [
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 2,
+            "value" : 90.5
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 3,
+            "value" : 178.77000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.25,
+            "value" : 178.77000000000001
+          },
+          {
+            "easingCurve" : {
+              "name" : "Ease In Ease Out"
+            },
+            "time" : 4.75,
+            "value" : 90.5
+          }
+        ]
+      }
+    }
+  }
+}

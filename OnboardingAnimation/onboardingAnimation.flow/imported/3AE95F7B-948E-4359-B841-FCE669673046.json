@@ -1,0 +1,32 @@
+{
+  "adjustContentOnResize" : false,
+  "defaultConfiguration" : {
+    "A4CE3434-FC29-4FCF-9839-14C786D873A1" : {
+      "properties" : {
+        "backgroundColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 1,
+          "red" : 1
+        },
+        "bounds.size.height" : 442,
+        "bounds.size.width" : 464,
+        "position.x" : 232,
+        "position.y" : 221
+      }
+    }
+  },
+  "id" : "3AE95F7B-948E-4359-B841-FCE669673046",
+  "name" : "Artboard",
+  "rootLayer" : {
+    "aspectRatioUnlocked" : true,
+    "id" : "A4CE3434-FC29-4FCF-9839-14C786D873A1",
+    "isClippingMask" : false,
+    "locked" : false,
+    "masksToBounds" : false,
+    "name" : "Artboard",
+    "resizingConstraint" : 0,
+    "type" : "group",
+    "visible" : true
+  }
+}
