@@ -33,7 +33,9 @@
 
 ![Animated Twitter Logo](./BasicAnimationWithTwitterLogo/twitter.gif)
 
+* Creating a Multiple Rotation Effect
 
+![Skype](./BasicAnimationWithTwitterLogo/skype.gif)
 
 ## Copyright
 
