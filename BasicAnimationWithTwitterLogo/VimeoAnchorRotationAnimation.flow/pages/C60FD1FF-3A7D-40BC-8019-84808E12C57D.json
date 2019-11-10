@@ -1,0 +1,14 @@
+{
+  "id" : "C60FD1FF-3A7D-40BC-8019-84808E12C57D",
+  "name" : "Skype",
+  "scenes" : [
+    {
+      "id" : "551129B0-03A5-4E56-90D3-B438E28C18C3",
+      "ref" : "imported\/551129B0-03A5-4E56-90D3-B438E28C18C3"
+    },
+    {
+      "id" : "A83EF378-4ECA-4719-A948-45EA02FD28C8",
+      "ref" : "imported\/A83EF378-4ECA-4719-A948-45EA02FD28C8"
+    }
+  ]
+}

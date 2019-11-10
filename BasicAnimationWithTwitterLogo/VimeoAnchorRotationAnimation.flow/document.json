@@ -1,0 +1,36 @@
+{
+  "documentID" : "D6B28B0D-BF73-4E16-A61E-2DC72179DEE7",
+  "sourceFile" : {
+    "lastAbsolutePath" : "\/Users\/Binboy\/Documents\/GitHub\/Flow-Track\/BasicAnimationWithTwitterLogo\/icons.sketch",
+    "pages" : [
+      {
+        "ref" : "pages\/19C6D2C5-AB58-4C78-835E-2A572B8186C2"
+      },
+      {
+        "ref" : "pages\/C60FD1FF-3A7D-40BC-8019-84808E12C57D"
+      },
+      {
+        "ref" : "pages\/42D99577-E040-454C-A41B-CEB02984BB14"
+      },
+      {
+        "ref" : "pages\/337AACDE-2218-4D5D-98BD-15AF8C389BC0"
+      },
+      {
+        "ref" : "pages\/64F3844C-91D3-4068-9229-1BF4B00C7CED"
+      },
+      {
+        "ref" : "pages\/E8FE88A3-D046-4033-BC05-5A461EDDAE08"
+      },
+      {
+        "ref" : "pages\/8ED7768A-B855-4C96-8B9E-F2EF9CA983BC"
+      }
+    ],
+    "relativePath" : "icons.sketch"
+  },
+  "timelines" : [
+    {
+      "id" : "FF9150F7-FB0E-4F43-9867-3EE97447BE7B",
+      "ref" : "timelines\/FF9150F7-FB0E-4F43-9867-3EE97447BE7B"
+    }
+  ]
+}
