@@ -1,0 +1,14 @@
+{
+  "id" : "C7671F24-CF4C-408B-9641-C51F877AF08A",
+  "name" : "Github",
+  "scenes" : [
+    {
+      "id" : "F3FCE6DE-2D9A-4722-8EBB-D7CDE72D9438",
+      "ref" : "imported\/F3FCE6DE-2D9A-4722-8EBB-D7CDE72D9438"
+    },
+    {
+      "id" : "38FF4C3A-19DA-49DA-8972-550BA63C3785",
+      "ref" : "imported\/38FF4C3A-19DA-49DA-8972-550BA63C3785"
+    }
+  ]
+}

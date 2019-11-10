@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="TwitterStartViewController">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Start View Controller-->
+        <scene sceneID="026E44EE-0823-416B-B93F-8786DD0A2AFF">
+            <objects>
+                <viewController storyboardIdentifier="StartViewController" id="StartViewController" customClass="StartViewController" customModule="TwitterAnimatedIcon" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="E5256719-0551-495B-AAA4-1C139466D98C"/>
+                        <viewControllerLayoutGuide type="bottom" id="DF0CFDC4-F805-4EBB-9FE9-6C6E9BFD3FB1"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="DE3DDE40-6FBF-4EE1-94AE-05061D684E43">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="F901DD81-3D89-4ED2-B201-5904314B5B6D" userLabel="StartView" customClass="StartView" customModule="TwitterAnimatedIcon" customModuleProvider="target">
+                                <rect key="frame" x="37.5" y="183.5" width="300" height="300"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="300" id="j34-GD-VQT"/>
+                                    <constraint firstAttribute="height" constant="300" id="mae-Dg-r3c"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <gestureRecognizers/>
+                        <constraints>
+                            <constraint firstItem="F901DD81-3D89-4ED2-B201-5904314B5B6D" firstAttribute="centerX" secondItem="DE3DDE40-6FBF-4EE1-94AE-05061D684E43" secondAttribute="centerX" id="E308CF2E-54D1-4A90-AECE-64BB09985C6D"/>
+                            <constraint firstItem="F901DD81-3D89-4ED2-B201-5904314B5B6D" firstAttribute="centerY" secondItem="DE3DDE40-6FBF-4EE1-94AE-05061D684E43" secondAttribute="centerY" id="FF78E358-8200-456E-8E7B-B35AA115B17E"/>
+                        </constraints>
+                    </view>
+                    <value key="contentSizeForViewInPopover" type="size" width="375" height="375"/>
+                    <connections>
+                        <outlet property="start" destination="F901DD81-3D89-4ED2-B201-5904314B5B6D" id="eNY-ne-leT"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="39B60F51-F067-4C9D-AF68-8B7E55911961" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="0.0" y="0.0"/>
+        </scene>
+        <!--Twitter Start View Controller-->
+        <scene sceneID="uPg-I4-Jwi">
+            <objects>
+                <viewController id="TwitterStartViewController" customClass="TwitterStartViewController" customModule="TwitterAnimatedIcon" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="E00E8DB8-010A-4D0E-B978-B9044F9ED142"/>
+                        <viewControllerLayoutGuide type="bottom" id="364C705E-8905-474F-BF6F-3A0E37D08305"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="BBEDABAB-24D6-4166-833A-C43E47EAE416">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="C0A04DA7-B1A3-47EC-B291-A48DEFDEC356" customClass="TwitterStartView" customModule="TwitterAnimatedIcon" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="146" width="375" height="375"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="375" id="F34-UY-EOV"/>
+                                    <constraint firstAttribute="width" constant="375" id="lnu-tW-77y"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" red="0.11372549019607843" green="0.63137254901960782" blue="0.94509803921568625" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="C0A04DA7-B1A3-47EC-B291-A48DEFDEC356" firstAttribute="centerX" secondItem="BBEDABAB-24D6-4166-833A-C43E47EAE416" secondAttribute="centerX" id="5D60638F-9E06-42D2-AA5A-7EBFCD407EA5"/>
+                            <constraint firstItem="C0A04DA7-B1A3-47EC-B291-A48DEFDEC356" firstAttribute="centerY" secondItem="BBEDABAB-24D6-4166-833A-C43E47EAE416" secondAttribute="centerY" id="EA6C6D90-CEEA-4A2F-AE35-555B6E74F258"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="twitterStart" destination="C0A04DA7-B1A3-47EC-B291-A48DEFDEC356" id="AE02E42A-EBB4-4522-B097-687F5BC136C1"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="0B5731CF-52A1-4AFC-ABD9-6FD8138DE2B1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1" y="649"/>
+        </scene>
+    </scenes>
+</document>
